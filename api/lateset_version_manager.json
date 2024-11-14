@@ -1,0 +1,10 @@
+{
+    "version": "V1.1.0",
+    "note": "Phiên bản mới nhất!",
+    "time_release": "2024-06-11",
+    "active": true,
+    "mobile_app_link": "https://aladdin-pos.github.io/assets/files/apos-manager/android/APOS_Manager_V110_Tablet.apk",
+    "desktop_app_link": "https://aladdin-pos.github.io/assets/files/apos-manager/windows/APOS_Manager_V110_Desktop.exe",
+    "version_code": 3,
+    "only": []
+}
