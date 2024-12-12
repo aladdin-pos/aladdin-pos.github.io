@@ -308,6 +308,50 @@
         "tags": "LW-HN"
     },
     {
+        "id_ref": "LW16HN",
+        "address": "Aeon Mall Long Biên",
+        "ip": "http://192.168.1.230:1904/api",
+        "name": "Long Wang 16 HN",
+        "order_online": true,
+        "style": 2,
+        "is_local": false,
+        "active": true,
+        "tags": "LW-HN"
+    },
+    {
+        "id_ref": "LW17HN",
+        "address": "Vincom Phạm Ngọc Thạch",
+        "ip": "http://192.168.1.250:1904/api",
+        "name": "Long Wang 17 HN",
+        "order_online": true,
+        "style": 2,
+        "is_local": false,
+        "active": true,
+        "tags": "LW-HN"
+    },
+    {
+        "id_ref": "LW18HN",
+        "address": "Vincom Trần Duy Hưng",
+        "ip": "http://192.168.1.250:1904/api",
+        "name": "Long Wang 18 HN",
+        "order_online": true,
+        "style": 2,
+        "is_local": false,
+        "active": true,
+        "tags": "LW-HN"
+    },
+    {
+        "id_ref": "LW19HN",
+        "address": "HN Center Nguyễn Thái Học",
+        "ip": "http://192.168.1.250:1904/api",
+        "name": "Long Wang 19 HN",
+        "order_online": true,
+        "style": 2,
+        "is_local": false,
+        "active": true,
+        "tags": "LW-HN"
+    },
+    {
         "id_ref": "LW1BG",
         "address": "TM Vincom 43 Ngô Gia Tự, Trần Phú",
         "ip": "http://192.168.1.250:1904/api",
@@ -528,6 +572,17 @@
         "tags": "Local"
     },
     {
+        "id_ref": "Local136CNHS",
+        "address": "NHÀ HÀNG KHÔNG CHỌN DÒNG NÀY",
+        "ip": "http://192.168.10.136:54/api",
+        "name": "Local 136:54 - CNHS",
+        "order_online": true,
+        "style": 5,
+        "is_local": true,
+        "active": true,
+        "tags": "Local"
+    },
+    {
         "id_ref": "Local136LW",
         "address": "Dành cho IT - 69 To Huu - NHÀ HÀNG KHÔNG CHỌN CÁI NÀY",
         "ip": "http://192.168.10.136:81/api",
@@ -535,6 +590,17 @@
         "order_online": true,
         "style": 2,
         "is_local": false,
+        "active": true,
+        "tags": "Local"
+    },
+    {
+        "id_ref": "Local136Tianlong",
+        "address": "Local - NHÀ HÀNG KHÔNG CHỌN DÒNG NÀY",
+        "ip": "http://192.168.10.136:85/api",
+        "name": "Local 136:85 - TL",
+        "order_online": true,
+        "style": 4,
+        "is_local": true,
         "active": true,
         "tags": "Local"
     },
@@ -581,6 +647,39 @@
         "is_local": false,
         "active": true,
         "tags": "TL-HN"
+    },
+    {
+        "id_ref": "TL1SG",
+        "address": "Sư Vạn Hạnh",
+        "ip": "http://192.168.1.250:1904/api",
+        "name": "Tian Long 1 SG",
+        "order_online": true,
+        "style": 4,
+        "is_local": false,
+        "active": true,
+        "tags": "TL-SG"
+    },
+    {
+        "id_ref": "TL2HN",
+        "address": "Vincom Phạm Ngọc Thạch",
+        "ip": "http://192.168.1.250:1904/api",
+        "name": "Tian Long 2 HN",
+        "order_online": true,
+        "style": 4,
+        "is_local": false,
+        "active": true,
+        "tags": "TL-HN"
+    },
+    {
+        "id_ref": "TL2SG",
+        "address": "Estella Thủ Đức",
+        "ip": "http://192.168.1.250:1904/api",
+        "name": "Tian Long 2 SG",
+        "order_online": true,
+        "style": 4,
+        "is_local": false,
+        "active": true,
+        "tags": "TL-SG"
     },
     {
         "id_ref": "Training",
