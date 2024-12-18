@@ -1,5 +1,16 @@
 [
     {
+        "id_ref": "AladdinBMS",
+        "address": "NHÀ HÀNG KHÔNG CHỌN CÁI NÀY",
+        "ip": "https://bms.aladdin-jsc.com/api",
+        "name": "Aladdin BMS",
+        "order_online": true,
+        "style": 2,
+        "is_local": false,
+        "active": true,
+        "tags": "Local"
+    },
+    {
         "id_ref": "BTAP1SG",
         "address": "Sài Gòn",
         "ip": "http://192.168.1.250:1904/api",
@@ -320,7 +331,7 @@
     },
     {
         "id_ref": "LW17HN",
-        "address": "Vincom Phạm Ngọc Thạch",
+        "address": "VinCom Phạm Ngọc Thạch",
         "ip": "http://192.168.1.250:1904/api",
         "name": "Long Wang 17 HN",
         "order_online": true,
@@ -331,8 +342,8 @@
     },
     {
         "id_ref": "LW18HN",
-        "address": "Vincom Trần Duy Hưng",
-        "ip": "http://192.168.1.250:1904/api",
+        "address": "VinCom Trần Duy Hưng",
+        "ip": "http://192.168.1.230:1904/api",
         "name": "Long Wang 18 HN",
         "order_online": true,
         "style": 2,
@@ -662,7 +673,7 @@
     {
         "id_ref": "TL2HN",
         "address": "Vincom Phạm Ngọc Thạch",
-        "ip": "http://192.168.1.250:1904/api",
+        "ip": "http://192.168.1.240:1904/api",
         "name": "Tian Long 2 HN",
         "order_online": true,
         "style": 4,
