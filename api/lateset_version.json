@@ -1,27 +1,11 @@
 {
-    "active": true,
-    "apk_link": "https://aladdin-pos.github.io/assets/files/apos/android/APOS_V253_Tablet.apk",
-    "windows_link": "https://aladdin-pos.github.io/assets/files/apos/windows/APOS_V253_Desktop.exe",
+    "active": false,
+    "apk_link": "https://aladdin-pos.github.io/assets/files/apos/android/APOS_V254_Tablet.apk",
+    "windows_link": "https://aladdin-pos.github.io/assets/files/apos/windows/APOS_V254_Desktop.exe",
     "is_required": true,
-    "version": "V2.5.3",
-    "version_code": 33,
+    "version": "V2.5.4",
+    "version_code": 34,
     "note": "Phiên bản mới nhất!",
-    "time_release": "2025-01-13",
-    "only": [
-        39,
-        21,
-        30,
-        26,
-        43,
-        5,
-        18,
-        34,
-        47,
-        24,
-        33,
-        38,
-        3,
-        31,
-        20
-    ]
+    "time_release": "2025-01-23",
+    "only": []
 }
