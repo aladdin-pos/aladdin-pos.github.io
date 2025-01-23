@@ -1,5 +1,5 @@
 {
-    "active": false,
+    "active": true,
     "apk_link": "https://aladdin-pos.github.io/assets/files/apos/android/APOS_V254_Tablet.apk",
     "windows_link": "https://aladdin-pos.github.io/assets/files/apos/windows/APOS_V254_Desktop.exe",
     "is_required": true,
@@ -7,5 +7,22 @@
     "version_code": 34,
     "note": "Phiên bản mới nhất!",
     "time_release": "2025-01-23",
-    "only": []
+    "only": [
+        47,
+        24,
+        17,
+        18,
+        3,
+        21,
+        33,
+        26,
+        31,
+        20,
+        43,
+        34,
+        38,
+        5,
+        30,
+        39
+    ]
 }
