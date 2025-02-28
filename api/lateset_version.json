@@ -1,7 +1,7 @@
 {
     "active": true,
-    "apk_link": "https://aladdin-pos.github.io/assets/files/apos/android/APOS_V254_Tablet.apk",
-    "windows_link": "https://aladdin-pos.github.io/assets/files/apos/windows/APOS_V254_Desktop.exe",
+    "apk_link": "https://aladdin-pos.github.io/assets/files/apos/android/APOS_V254_Tablet_Hotfix.apk",
+    "windows_link": "https://aladdin-pos.github.io/assets/files/apos/windows/APOS_V254_Desktop_Hotfix.exe",
     "is_required": true,
     "version": "V2.5.4",
     "version_code": 34,
@@ -51,6 +51,7 @@
         14,
         51,
         52,
-        7
+        7,
+        54
     ]
 }
