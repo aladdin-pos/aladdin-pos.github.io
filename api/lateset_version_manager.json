@@ -1,5 +1,5 @@
 {
-    "active": false,
+    "active": true,
     "apk_link": "https://aladdin-pos.github.io/assets/files/apos-manager/android/APOS_Manager_V120_Tablet.apk",
     "windows_link": "https://aladdin-pos.github.io/assets/files/apos-manager/windows/APOS_Manager_V120_Desktop.exe",
     "is_required": true,
