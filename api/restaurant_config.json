@@ -253,6 +253,17 @@
         "tags": "BTQM-HN"
     },
     {
+        "id_ref": "CNHS1HN",
+        "address": "Hà Nội",
+        "ip": "http://192.168.1.19:1904/api",
+        "name": "Cơm niêu Hải sư 1 HN",
+        "order_online": true,
+        "style": 5,
+        "is_local": false,
+        "active": true,
+        "tags": "CNHS-HN"
+    },
+    {
         "id_ref": "LW1-84NgocKhanh",
         "address": "84 Ngọc Khánh",
         "ip": "http://192.168.5.88/api",
@@ -286,6 +297,17 @@
         "tags": "LW-HN"
     },
     {
+        "id_ref": "LW10SG",
+        "address": "299 Tân Sơn Nhất (Tân Phú)",
+        "ip": "http://192.168.1.250:1904/api",
+        "name": "Long Wang 10 SG",
+        "order_online": true,
+        "style": 2,
+        "is_local": false,
+        "active": true,
+        "tags": "LW-SG"
+    },
+    {
         "id_ref": "LW11HN",
         "address": "Royal City",
         "ip": "http://192.168.1.250:1904/api",
@@ -295,6 +317,17 @@
         "is_local": false,
         "active": true,
         "tags": "LW-HN"
+    },
+    {
+        "id_ref": "LW11SG",
+        "address": "Vincom Thảo Điền",
+        "ip": "http://192.168.1.250:1904/api",
+        "name": "Long Wang 11 SG",
+        "order_online": true,
+        "style": 2,
+        "is_local": false,
+        "active": true,
+        "tags": "LW-SG"
     },
     {
         "id_ref": "LW12HN",
@@ -539,6 +572,17 @@
         "tags": "LW-HN"
     },
     {
+        "id_ref": "LW8SG",
+        "address": "Nguyễn Thị Thập",
+        "ip": "http://192.168.1.250:1904/api",
+        "name": "Long Wang 8 SG",
+        "order_online": true,
+        "style": 2,
+        "is_local": false,
+        "active": true,
+        "tags": "LW-SG"
+    },
+    {
         "id_ref": "LW9HN",
         "address": "BT 34 Thợ Nhuộm",
         "ip": "http://192.168.5.250:1904/api",
@@ -548,6 +592,17 @@
         "is_local": false,
         "active": true,
         "tags": "LW-HN"
+    },
+    {
+        "id_ref": "LW9SG",
+        "address": "Gò Vấp (Số 1 Quang Trung)",
+        "ip": "http://192.168.1.250:1904/api",
+        "name": "Long Wang 9 SG",
+        "order_online": true,
+        "style": 2,
+        "is_local": false,
+        "active": true,
+        "tags": "LW-SG"
     },
     {
         "id_ref": "LWSG1TEST",
@@ -611,7 +666,7 @@
         "name": "Local 136:85 - TL",
         "order_online": true,
         "style": 4,
-        "is_local": true,
+        "is_local": false,
         "active": true,
         "tags": "Local"
     },
@@ -640,7 +695,7 @@
     {
         "id_ref": "QuanLocal",
         "address": "Local - NHÀ HÀNG KHÔNG CHỌN CÁI NÀY",
-        "ip": "http://192.168.10.10/api",
+        "ip": "http://192.168.10.62/api",
         "name": "Quan Local",
         "order_online": true,
         "style": 2,
