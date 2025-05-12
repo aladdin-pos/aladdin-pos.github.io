@@ -1,11 +1,18 @@
 {
     "active": true,
-    "apk_link": "https://aladdin-pos.github.io/assets/files/apos/android/APOS_V255_Tablet.apk",
-    "windows_link": "https://aladdin-pos.github.io/assets/files/apos/windows/APOS_V255_Desktop_Hotfix.exe",
-    "is_required": true,
-    "version": "V2.5.5",
-    "version_code": 35,
+    "apk_link": "https://aladdin-pos.github.io/assets/files/apos/android/APOS_V2551_Table.apk",
+    "windows_link": "",
+    "is_required": false,
+    "version": "V2.5.5.1",
+    "version_code": 36,
     "note": "Phiên bản mới nhất!",
-    "time_release": "2025-03-10",
-    "only": []
+    "time_release": "2025-05-10",
+    "only": [
+        20,
+        4,
+        23,
+        1,
+        6,
+        50
+    ]
 }
