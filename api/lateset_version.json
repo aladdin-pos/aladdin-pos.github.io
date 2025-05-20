@@ -7,12 +7,5 @@
     "version_code": 36,
     "note": "Phiên bản mới nhất!",
     "time_release": "2025-05-10",
-    "only": [
-        20,
-        4,
-        23,
-        1,
-        6,
-        50
-    ]
+    "only": []
 }
