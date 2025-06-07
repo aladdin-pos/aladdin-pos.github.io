@@ -765,7 +765,7 @@
         "name": "Local 136:54 - CNHS",
         "order_online": true,
         "style": 5,
-        "is_local": true,
+        "is_local": false,
         "active": true,
         "tags": "Local"
     },
