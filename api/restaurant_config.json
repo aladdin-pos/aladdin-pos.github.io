@@ -299,7 +299,7 @@
     {
         "id_ref": "CNHSHN2",
         "address": "Vincom Bà Triệu",
-        "ip": "http://192.168.1.250:1904/api",
+        "ip": "http://192.168.1.230:1904/api",
         "name": "Cơm niêu Hải sư 2 HN",
         "order_online": true,
         "style": 5,
