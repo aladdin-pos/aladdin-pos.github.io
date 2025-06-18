@@ -1,7 +1,7 @@
 {
     "active": true,
-    "apk_link": "https://aladdin-pos.github.io/assets/files/apos/android/APOS_V256_Table.apk",
-    "windows_link": "https://aladdin-pos.github.io/assets/files/apos/windows/APOS_V256_Desktop.apk",
+    "apk_link": "https://aladdin-pos.github.io/assets/files/apos/android/APOS_V256_Tablet.apk",
+    "windows_link": "https://aladdin-pos.github.io/assets/files/apos/windows/APOS_V256_Desktop.exe",
     "is_required": true,
     "version": "V2.5.6",
     "version_code": 37,
