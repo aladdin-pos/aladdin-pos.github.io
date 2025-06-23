@@ -1,7 +1,7 @@
 {
     "active": true,
     "apk_link": "https://aladdin-pos.github.io/assets/files/apos/android/APOS_V2561_Tablet.apk",
-    "windows_link": "",
+    "windows_link": "https://aladdin-pos.github.io/assets/files/apos/windows/APOS_V256_1_Desktop.exe",
     "is_required": false,
     "version": "V2.5.6.1",
     "version_code": 38,
