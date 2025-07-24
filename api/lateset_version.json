@@ -1,11 +1,11 @@
 {
     "active": true,
-    "apk_link": "https://aladdin-pos.github.io/assets/files/apos/android/APOS_V258_Tablet.apk",
-    "windows_link": "https://aladdin-pos.github.io/assets/files/apos/windows/APOS_V258_Desktop.exe",
+    "apk_link": "https://aladdin-pos.github.io/assets/files/apos/android/APOS_V258_1_Tablet.apk",
+    "windows_link": "https://aladdin-pos.github.io/assets/files/apos/windows/APOS_V258_1_Desktop.exe",
     "is_required": false,
-    "version": "V2.5.8",
-    "version_code": 50,
-    "note": "Phiên bản mới nhất!",
-    "time_release": "2025-07-22",
+    "version": "V2.5.8.1",
+    "version_code": 51,
+    "note": "Hotfix cho V2.5.8",
+    "time_release": "2025-07-24",
     "only": []
 }
