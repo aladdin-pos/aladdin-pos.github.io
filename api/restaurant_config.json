@@ -3,9 +3,9 @@
         "id_ref": "AVHUE1",
         "address": "Aeon Mall Huế",
         "ip": "http://192.168.1.240:1904/api",
-        "name": "Cuốn An Vũ 1 Huế",
+        "name": "Bò tơ quán mộc 1 Huế",
         "order_online": true,
-        "style": 3,
+        "style": 1,
         "is_local": false,
         "active": true,
         "tags": "Huế"
