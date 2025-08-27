@@ -1054,5 +1054,16 @@
         "is_local": false,
         "active": true,
         "tags": "TL-HN"
+    },
+    {
+        "id_ref": "CNHSHN3",
+        "address": "Aeon Long Biên",
+        "ip": "http://192.168.1.230:1904/api",
+        "name": "Cơm niêu Hải sư 3 HN",
+        "order_online": true,
+        "style": 5,
+        "is_local": false,
+        "active": true,
+        "tags": "CNHS-HN"
     }
 ]
