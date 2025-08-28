@@ -1065,5 +1065,16 @@
         "is_local": false,
         "active": true,
         "tags": "CNHS-HN"
+    },
+    {
+        "id_ref": "TLHN7",
+        "address": "Linh Đàm",
+        "ip": "http://192.168.1.230:1904/api",
+        "name": "Tian Long 7 HN",
+        "order_online": true,
+        "style": 4,
+        "is_local": false,
+        "active": true,
+        "tags": "TL-HN"
     }
 ]
