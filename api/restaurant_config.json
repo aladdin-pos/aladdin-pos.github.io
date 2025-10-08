@@ -1142,5 +1142,25 @@
         "is_local": false,
         "active": true,
         "tags": "BTQM-HP"
+        "id_ref": "LWSG18",
+        "address": "Landmark 81",
+        "ip": "http://192.168.1.250:1904/api",
+        "name": "Long Wang 18 SG",
+        "order_online": true,
+        "style": 2,
+        "is_local": false,
+        "active": true,
+        "tags": "LW-SG"
+    },
+    {
+        "id_ref": "TLSG6",
+        "address": "Landmark 81",
+        "ip": "http://192.168.1.240:1904/api",
+        "name": "Tian Long 6 SG",
+        "order_online": true,
+        "style": 4,
+        "is_local": false,
+        "active": true,
+        "tags": "TL-SG"
     }
 ]
