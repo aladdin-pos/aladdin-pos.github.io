@@ -1164,5 +1164,16 @@
         "is_local": false,
         "active": true,
         "tags": "TL-SG"
+    },
+    {
+        "id_ref": "CNHSSG2",
+        "address": "Giga Mall",
+        "ip": "http://192.168.1.230:1904/api",
+        "name": "Cơm niêu Hải sư 2 SG",
+        "order_online": true,
+        "style": 5,
+        "is_local": false,
+        "active": true,
+        "tags": "CNHS-SG"
     }
 ]
