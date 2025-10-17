@@ -1175,5 +1175,16 @@
         "is_local": false,
         "active": true,
         "tags": "CNHS-SG"
+    },
+    {
+        "id_ref": "TLSG7",
+        "address": "Giga Mall",
+        "ip": "http://192.168.1.240:1904/api",
+        "name": "Tian Long 7 SG",
+        "order_online": true,
+        "style": 4,
+        "is_local": false,
+        "active": true,
+        "tags": "TL-SG"
     }
 ]
