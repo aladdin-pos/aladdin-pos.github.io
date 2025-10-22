@@ -1197,5 +1197,27 @@
         "is_local": false,
         "active": true,
         "tags": "G-Master"
+    },
+    {
+        "id_ref": "TLSG8",
+        "address": "130A Nguyễn Đình Chiểu",
+        "ip": "http://192.168.1.240:1904/api",
+        "name": "Tian Long 8 SG",
+        "order_online": true,
+        "style": 4,
+        "is_local": false,
+        "active": true,
+        "tags": "TL-SG"
+    },
+    {
+        "id_ref": "TLSG9",
+        "address": "Vincom Quang Trung",
+        "ip": "http://192.168.1.240:1904/api",
+        "name": "Tian Long 9 SG",
+        "order_online": true,
+        "style": 4,
+        "is_local": false,
+        "active": true,
+        "tags": "TL-SG"
     }
 ]
