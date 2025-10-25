@@ -316,7 +316,7 @@
         "style": 3,
         "is_local": false,
         "active": true,
-        "tags": "Đào tạo Online"
+        "tags": "PĐT"
     },
     {
         "id_ref": "LW1-84NgocKhanh",
@@ -932,7 +932,7 @@
         "style": 4,
         "is_local": false,
         "active": true,
-        "tags": "Đào tạo Online"
+        "tags": "PĐT"
     },
     {
         "id_ref": "CNHSS1",
@@ -1196,7 +1196,7 @@
         "style": 4,
         "is_local": false,
         "active": true,
-        "tags": "G-Master"
+        "tags": "GM-SG"
     },
     {
         "id_ref": "TLSG8",
