@@ -8,7 +8,7 @@
         "style": 1,
         "is_local": false,
         "active": true,
-        "tags": "Huế"
+        "tags": "BTQM-HUE"
     },
     {
         "id_ref": "AladdinBMS",
@@ -41,7 +41,7 @@
         "style": 3,
         "is_local": false,
         "active": true,
-        "tags": "BTAV-SG"
+        "tags": "CAV-SG"
     },
     {
         "id_ref": "BTAVHN1",
@@ -52,7 +52,7 @@
         "style": 3,
         "is_local": false,
         "active": true,
-        "tags": "BTAV-HN"
+        "tags": "CAV-HN"
     },
     {
         "id_ref": "BTQM-15HN",
@@ -899,7 +899,7 @@
         "style": 4,
         "is_local": false,
         "active": true,
-        "tags": "Huế"
+        "tags": "TL-HUE"
     },
     {
         "id_ref": "TLSG1",
@@ -987,7 +987,7 @@
         "style": 5,
         "is_local": false,
         "active": true,
-        "tags": "CNHS-HN"
+        "tags": "CNHS-HP"
     },
     {
         "id_ref": "TLSG5",

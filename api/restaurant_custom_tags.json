@@ -1,0 +1,117 @@
+[
+    {
+        "brand": "Bò tơ quán mộc",
+        "locations": [
+            {
+                "key": "BTQM-HN",
+                "name": "Hà Nội"
+            },
+            {
+                "key": "BTQM-SG",
+                "name": "Sài Gòn"
+            },
+            {
+                "key": "BTQM-HP",
+                "name": "Hải Phòng"
+            },
+            {
+                "key": "BTQM-HUE",
+                "name": "Thừa Thiên Huế"
+            }
+        ]
+    },
+    {
+        "brand": "Long Wang",
+        "locations": [
+            {
+                "key": "LW-HN",
+                "name": "Hà Nội"
+            },
+            {
+                "key": "LW-SG",
+                "name": "Sài Gòn"
+            },
+            {
+                "key": "LW-HP",
+                "name": "Hải Phòng"
+            },
+            {
+                "key": "LW-BG",
+                "name": "Bắc Giang"
+            }
+        ]
+    },
+    {
+        "brand": "Tian Long",
+        "locations": [
+            {
+                "key": "TL-HN",
+                "name": "Hà Nội"
+            },
+            {
+                "key": "TL-SG",
+                "name": "Sài Gòn"
+            },
+            {
+                "key": "TL-HP",
+                "name": "Hải Phòng"
+            },
+            {
+                "key": "TL-HUE",
+                "name": "Thừa Thiên Huế"
+            }
+        ]
+    },
+    {
+        "brand": "Cơm niêu Hải Sư",
+        "locations": [
+            {
+                "key": "CNHS-HN",
+                "name": "Hà Nội"
+            },
+            {
+                "key": "CNHS-SG",
+                "name": "Sài Gòn"
+            },
+            {
+                "key": "CNHS-HP",
+                "name": "Hải Phòng"
+            }
+        ]
+    },
+    {
+        "brand": "G-Master",
+        "locations": [
+            {
+                "key": "GM-SG",
+                "name": "Sài Gòn"
+            }
+        ]
+    },
+    {
+        "brand": "Cuốn An Vũ",
+        "locations": [
+            {
+                "key": "CAV-HN",
+                "name": "Hà Nội"
+            },
+            {
+                "key": "CAV-SG",
+                "name": "Sài Gòn"
+            }
+        ]
+    },
+    {
+        "brand": "Khác",
+        "locations": [
+            {
+                "key": "Local",
+                "name": "Local"
+            },
+            {
+                "key": "PĐT",
+                "name": "Đào tạo Online"
+            }
+        ]
+    }
+]
