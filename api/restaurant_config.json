@@ -1219,5 +1219,16 @@
         "is_local": false,
         "active": true,
         "tags": "TL-SG"
+    },
+    {
+        "id_ref": "CNHSSG3",
+        "address": "Nguyễn Thị Thập",
+        "ip": "http://192.168.1.230:1904/api",
+        "name": "Cơm niêu Hải sư 3 SG",
+        "order_online": true,
+        "style": 5,
+        "is_local": false,
+        "active": true,
+        "tags": "CNHS-SG"
     }
 ]
