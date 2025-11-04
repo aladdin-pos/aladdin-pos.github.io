@@ -1230,5 +1230,16 @@
         "is_local": false,
         "active": true,
         "tags": "CNHS-SG"
+    },
+    {
+        "id_ref": "CNHSHN4",
+        "address": "39 Huỳnh Thúc Kháng",
+        "ip": "http://192.168.1.230:1904/api",
+        "name": "Cơm niêu Hải sư 4 HN",
+        "order_online": true,
+        "style": 5,
+        "is_local": false,
+        "active": true,
+        "tags": "CNHS-HN"
     }
 ]
