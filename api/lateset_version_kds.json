@@ -1,10 +1,16 @@
 {
     "active": true,
-    "apk_link": "https://aladdin-pos.github.io/assets/files/kds/android/AKDS_V151_Tablet.apk",
+    "apk_link": "https://aladdin-pos.github.io/assets/files/kds/android/AKDS_V155_30_Tablet.apk",
     "is_required": false,
-    "version": "V1.5.1",
-    "version_code": 27,
+    "version": "V1.5.5",
+    "version_code": 30,
     "note": "Phiên bản mới nhất!",
-    "time_release": "2025-06-18",
-    "only": []
+    "time_release": "2025-11-11",
+    "only": [
+        10,
+        28,
+        46,
+        33,
+        95
+    ]
 }
