@@ -1241,5 +1241,16 @@
         "is_local": false,
         "active": true,
         "tags": "CNHS-HN"
+    },
+    {
+        "id_ref": "TLHN9",
+        "address": "AeonMall HimLam",
+        "ip": "http://192.168.1.240:1904/api",
+        "name": "Tian Long 9 HN",
+        "order_online": true,
+        "style": 4,
+        "is_local": false,
+        "active": true,
+        "tags": "TL-HN"
     }
 ]
