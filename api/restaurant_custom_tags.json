@@ -38,6 +38,14 @@
             {
                 "key": "LW-BG",
                 "name": "Bắc Giang"
+            },
+            {
+                "key": "LW-NA",
+                "name": "Vinh"
+            },
+            {
+                "key": "LW-DA",
+                "name": "Đà Nẵng"
             }
         ]
     },
@@ -59,6 +67,14 @@
             {
                 "key": "TL-HUE",
                 "name": "Huế"
+            },
+            {
+                "key": "TL-NA",
+                "name": "Vinh"
+            },
+            {
+                "key": "TL-DA",
+                "name": "Đà Nẵng"
             }
         ]
     },
