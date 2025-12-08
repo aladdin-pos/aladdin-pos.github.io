@@ -1,11 +1,11 @@
 {
     "active": true,
-    "apk_link": "https://aladdin-pos.github.io/assets/files/reception/android/A_Reception_V103_Tablet.apk",
-    "windows_link": "https://aladdin-pos.github.io/assets/files/reception/windowns/A_Reception_V103_Desktop.exe",
+    "apk_link": "https://aladdin-pos.github.io/assets/files/reception/android/A_Reception_V104_Tablet.apk",
+    "windows_link": "https://aladdin-pos.github.io/assets/files/reception/windowns/A_Reception_V104_Desktop.exe",
     "is_required": false,
-    "version": "V1.0.3",
-    "version_code": 4,
+    "version": "V1.0.4",
+    "version_code": 5,
     "note": "Phiên bản mới nhất!",
-    "time_release": "2025-07-07",
+    "time_release": "2025-12-08",
     "only": []
 }
