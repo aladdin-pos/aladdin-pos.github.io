@@ -1296,5 +1296,16 @@
         "is_local": false,
         "active": true,
         "tags": "TL-DA"
+    },
+    {
+        "id_ref": "BTQM-17HN",
+        "address": "Tiến Bộ Plaza",
+        "ip": "http://192.168.1.230:1904/api",
+        "name": "Bò tơ quán mộc 17 HN",
+        "order_online": true,
+        "style": 1,
+        "is_local": false,
+        "active": true,
+        "tags": "BTQM-HN"
     }
 ]
