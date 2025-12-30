@@ -1329,5 +1329,16 @@
         "is_local": false,
         "active": true,
         "tags": "TL-SG"
+    },
+    {
+        "id_ref": "LWSG20",
+        "address": "Cantavil Premier",
+        "ip": "http://192.168.1.250:1904/api",
+        "name": "Long Wang 20 SG",
+        "order_online": true,
+        "style": 2,
+        "is_local": false,
+        "active": true,
+        "tags": "LW-SG"
     }
 ]
