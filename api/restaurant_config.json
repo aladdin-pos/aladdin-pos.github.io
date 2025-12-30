@@ -1318,5 +1318,16 @@
         "is_local": false,
         "active": true,
         "tags": "TL-HN"
+    },
+    {
+        "id_ref": "TLSG10",
+        "address": "Cantavil Premier",
+        "ip": "http://192.168.1.240:1904/api",
+        "name": "Tian Long 10 SG",
+        "order_online": true,
+        "style": 4,
+        "is_local": false,
+        "active": true,
+        "tags": "TL-SG"
     }
 ]
