@@ -1,10 +1,10 @@
 {
     "active": true,
-    "apk_link": "https://aladdin-pos.github.io/assets/files/kds/android/AKDS_V156_31_Tablet.apk",
+    "apk_link": "https://aladdin-pos.github.io/assets/files/kds/android/AKDS_V157_32_Tablet.apk",
     "is_required": false,
-    "version": "V1.5.6",
-    "version_code": 31,
-    "note": "Phiên bản mới nhất!",
-    "time_release": "2025-12-01",
+    "version": "V1.5.7",
+    "version_code": 32,
+    "note": "Hotfix - Tràn tên món ở bill lẻ",
+    "time_release": "2026-01-19",
     "only": []
 }
