@@ -1351,5 +1351,16 @@
         "is_local": false,
         "active": true,
         "tags": "KN-SG"
+    },
+    {
+        "id_ref": "BHN18",
+        "address": "Vincom Phạm Ngọc Thạch",
+        "ip": "http://192.168.1.230:1904/api",
+        "name": "Bò tơ quán mộc 18 HN",
+        "order_online": true,
+        "style": 1,
+        "is_local": false,
+        "active": true,
+        "tags": "BTQM-HN"
     }
 ]
