@@ -311,9 +311,9 @@
         "id_ref": "DTAVOnline",
         "address": "Phòng Đào tạo - Online",
         "ip": "http://order-anvu.aladdin-jsc.com/api",
-        "name": "Đào tạo An Vũ",
+        "name": "Đào tạo Long Wang",
         "order_online": true,
-        "style": 3,
+        "style": 2,
         "is_local": false,
         "active": true,
         "tags": "PĐT"
