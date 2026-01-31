@@ -1,11 +1,27 @@
 {
     "active": true,
-    "apk_link": "https://aladdin-pos.github.io/assets/files/apos-manager/android/APOS_Manager_V120_Tablet.apk",
-    "windows_link": "https://aladdin-pos.github.io/assets/files/apos-manager/windows/APOS_Manager_V120_Desktop.exe",
+    "apk_link": "https://aladdin-pos.github.io/assets/files/apos-manager/android/APOS_Manager_V121_Tablet.apk",
+    "windows_link": "https://aladdin-pos.github.io/assets/files/apos-manager/windows/APOS_Manager_V121_Desktop.exe",
     "is_required": true,
     "version": "V1.2.0",
     "version_code": 10,
     "note": "Phiên bản mới nhất!",
     "time_release": "2025-03-18",
-    "only": []
+    "only": [
+        1,
+        4,
+        20,
+        23,
+        22,
+        28,
+        32,
+        36,
+        37,
+        41,
+        45,
+        48,
+        51,
+        52,
+        76
+    ]
 }
