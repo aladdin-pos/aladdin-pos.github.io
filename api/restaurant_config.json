@@ -1362,5 +1362,16 @@
         "is_local": false,
         "active": true,
         "tags": "BTQM-HN"
+    },
+    {
+        "id_ref": "TLSG11",
+        "address": "103-103A-103C Đường Cộng Hòa, P. TSN",
+        "ip": "http://192.168.1.240:1904/api",
+        "name": "Tian Long 11 SG",
+        "order_online": true,
+        "style": 4,
+        "is_local": false,
+        "active": true,
+        "tags": "TL-SG"
     }
 ]
