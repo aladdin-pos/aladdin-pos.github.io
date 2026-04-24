@@ -46,6 +46,14 @@
             {
                 "key": "LW-DA",
                 "name": "Đà Nẵng"
+            },
+            {
+                "key": "LW-TH",
+                "name": "Thanh Hoá"
+            },
+            {
+                "key": "LW-KH",
+                "name": "Khánh Hoà"
             }
         ]
     },
@@ -75,6 +83,14 @@
             {
                 "key": "TL-DA",
                 "name": "Đà Nẵng"
+            },
+            {
+                "key": "TL-TH",
+                "name": "Thanh Hoá"
+            },
+            {
+                "key": "TL-KH",
+                "name": "Khánh Hoà"
             }
         ]
     },
