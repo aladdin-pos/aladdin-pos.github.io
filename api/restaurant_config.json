@@ -1439,5 +1439,16 @@
         "is_local": false,
         "active": true,
         "tags": "LW-KH"
+    },
+    {
+        "id_ref": "DTGMasterOnline",
+        "address": "Phòng Đào tạo - Online",
+        "ip": "http://gmaster-order.aladdin-jsc.com/api",
+        "name": "Đào tạo G-Master",
+        "order_online": true,
+        "style": 6,
+        "is_local": false,
+        "active": true,
+        "tags": "PĐT"
     }
 ]
