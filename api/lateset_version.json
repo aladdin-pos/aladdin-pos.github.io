@@ -2,15 +2,10 @@
     "active": true,
     "apk_link": "https://aladdin-pos.github.io/assets/files/apos/android/APOS_V260_Tablet.apk",
     "windows_link": "https://aladdin-pos.github.io/assets/files/apos/windows/APOS_V260_Desktop.exe",
-    "is_required": false,
+    "is_required": true,
     "version": "V2.6.0",
     "version_code": 60,
     "note": "Tích hợp thanh toán QR tự động (VPBank)",
-    "time_release": "2026-03-19",
-    "only": [
-        10,
-        11,
-        17,
-        55
-    ]
+    "time_release": "2026-05-04",
+    "only": []
 }
