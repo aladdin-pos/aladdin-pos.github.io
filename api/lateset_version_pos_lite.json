@@ -2,7 +2,7 @@
     "active": true,
     "apk_link": "https://aladdin-pos.github.io/assets/files/apos_lite/android/APOS_Lite_V106_Desktop.exe",
     "windows_link": "https://aladdin-pos.github.io/assets/files/apos_lite/windows/APOS_Lite_V106_Desktop.exe",
-    "is_required": false,
+    "is_required": true,
     "version": "V1.0.6",
     "version_code": 7,
     "note": "Tích hợp thanh toán QR tự động (VPBank)",
