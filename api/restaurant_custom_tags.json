@@ -117,6 +117,10 @@
             {
                 "key": "GM-SG",
                 "name": "Sài Gòn"
+            },
+            {
+                "key": "GM-HN",
+                "name": "Hà Nội"
             }
         ]
     },
