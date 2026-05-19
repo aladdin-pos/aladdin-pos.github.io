@@ -1,0 +1,454 @@
+{
+    "_default": {
+        "code": "Unmapped",
+        "thread_id": 48222
+    },
+    "1": {
+        "code": "LongWang - HN01",
+        "thread_id": 48219
+    },
+    "3": {
+        "code": "BTQM - SG03",
+        "thread_id": 48105
+    },
+    "4": {
+        "code": "LongWang - HN02",
+        "thread_id": 48106
+    },
+    "5": {
+        "code": "BTQM - SG04",
+        "thread_id": 48107
+    },
+    "6": {
+        "code": "BTQM - HN01",
+        "thread_id": 48108
+    },
+    "7": {
+        "code": "BTQM - HN02",
+        "thread_id": 48109
+    },
+    "8": {
+        "code": "BTQM - HN03",
+        "thread_id": 48110
+    },
+    "9": {
+        "code": "BTQM - HN04",
+        "thread_id": 48111
+    },
+    "10": {
+        "code": "BTQM - HN05",
+        "thread_id": 48112
+    },
+    "11": {
+        "code": "BTQM - HN06",
+        "thread_id": 48113
+    },
+    "12": {
+        "code": "BTQM - HN07",
+        "thread_id": 48114
+    },
+    "13": {
+        "code": "BTQM - HN08",
+        "thread_id": 48115
+    },
+    "14": {
+        "code": "BTQM - HN09",
+        "thread_id": 48116
+    },
+    "15": {
+        "code": "BTQM - HN10",
+        "thread_id": 48117
+    },
+    "16": {
+        "code": "BTQM - HN11",
+        "thread_id": 48118
+    },
+    "17": {
+        "code": "BTQM - SG01",
+        "thread_id": 48119
+    },
+    "18": {
+        "code": "BTQM - SG02",
+        "thread_id": 48120
+    },
+    "20": {
+        "code": "LongWang - HN03",
+        "thread_id": 48121
+    },
+    "21": {
+        "code": "LongWang - SG01",
+        "thread_id": 48122
+    },
+    "22": {
+        "code": "LongWang - HN07",
+        "thread_id": 48123
+    },
+    "23": {
+        "code": "LongWang - HN06",
+        "thread_id": 48124
+    },
+    "24": {
+        "code": "BTQM - SG05",
+        "thread_id": 48125
+    },
+    "26": {
+        "code": "BTQM - SG07",
+        "thread_id": 48126
+    },
+    "27": {
+        "code": "BTQM - HN12",
+        "thread_id": 48127
+    },
+    "28": {
+        "code": "LongWang - HN08",
+        "thread_id": 48128
+    },
+    "30": {
+        "code": "LongWang - SG02",
+        "thread_id": 48129
+    },
+    "32": {
+        "code": "LongWang - HN09",
+        "thread_id": 48130
+    },
+    "33": {
+        "code": "LongWang - SG03",
+        "thread_id": 48131
+    },
+    "34": {
+        "code": "LongWang - SG04",
+        "thread_id": 48132
+    },
+    "35": {
+        "code": "LongWang - HP01",
+        "thread_id": 48133
+    },
+    "36": {
+        "code": "LongWang - HN10",
+        "thread_id": 48134
+    },
+    "37": {
+        "code": "LongWang - HN11",
+        "thread_id": 48135
+    },
+    "38": {
+        "code": "LongWang - SG06",
+        "thread_id": 48136
+    },
+    "39": {
+        "code": "LongWang - SG05",
+        "thread_id": 48137
+    },
+    "40": {
+        "code": "LongWang - BG01",
+        "thread_id": 48138
+    },
+    "41": {
+        "code": "LongWang - HN12",
+        "thread_id": 48139
+    },
+    "42": {
+        "code": "LongWang - HP02",
+        "thread_id": 48140
+    },
+    "43": {
+        "code": "LongWang - SG07",
+        "thread_id": 48141
+    },
+    "44": {
+        "code": "BTQM - HN15",
+        "thread_id": 48142
+    },
+    "45": {
+        "code": "LongWang - HN15",
+        "thread_id": 48143
+    },
+    "46": {
+        "code": "TianLong - HN01",
+        "thread_id": 48144
+    },
+    "47": {
+        "code": "BTQM - SG08",
+        "thread_id": 48145
+    },
+    "48": {
+        "code": "LongWang - HN16",
+        "thread_id": 48146
+    },
+    "50": {
+        "code": "TianLong - HN02",
+        "thread_id": 48147
+    },
+    "51": {
+        "code": "LongWang - HN17",
+        "thread_id": 48148
+    },
+    "52": {
+        "code": "LongWang - HN18",
+        "thread_id": 48149
+    },
+    "54": {
+        "code": "CNHS - HN01",
+        "thread_id": 48150
+    },
+    "55": {
+        "code": "LongWang - SG08",
+        "thread_id": 48151
+    },
+    "56": {
+        "code": "LongWang - SG09",
+        "thread_id": 48152
+    },
+    "57": {
+        "code": "LongWang - SG10",
+        "thread_id": 48153
+    },
+    "58": {
+        "code": "LongWang - SG11",
+        "thread_id": 48154
+    },
+    "59": {
+        "code": "TianLong - HN03",
+        "thread_id": 48155
+    },
+    "60": {
+        "code": "BTQM - HN16",
+        "thread_id": 48156
+    },
+    "61": {
+        "code": "TianLong - HP01",
+        "thread_id": 48157
+    },
+    "63": {
+        "code": "LongWang - SG12",
+        "thread_id": 48158
+    },
+    "64": {
+        "code": "LongWang - SG13",
+        "thread_id": 48159
+    },
+    "65": {
+        "code": "LongWang - SG14",
+        "thread_id": 48160
+    },
+    "66": {
+        "code": "LongWang - SG15",
+        "thread_id": 48161
+    },
+    "67": {
+        "code": "LongWang - DN01",
+        "thread_id": 48162
+    },
+    "68": {
+        "code": "TianLong - SG01",
+        "thread_id": 48163
+    },
+    "69": {
+        "code": "TianLong - SG02",
+        "thread_id": 48164
+    },
+    "70": {
+        "code": "TianLong - SG04",
+        "thread_id": 48165
+    },
+    "71": {
+        "code": "TianLong - HN04",
+        "thread_id": 48166
+    },
+    "72": {
+        "code": "TianLong - HN05",
+        "thread_id": 48167
+    },
+    "73": {
+        "code": "CNHS - HN02",
+        "thread_id": 48168
+    },
+    "76": {
+        "code": "LongWang - HN19",
+        "thread_id": 48169
+    },
+    "77": {
+        "code": "LongWang - HN20",
+        "thread_id": 48170
+    },
+    "78": {
+        "code": "CNHS - SG01",
+        "thread_id": 48171
+    },
+    "79": {
+        "code": "LongWang - HN21",
+        "thread_id": 48172
+    },
+    "80": {
+        "code": "CNHS - HP01",
+        "thread_id": 48173
+    },
+    "81": {
+        "code": "TianLong - HN06",
+        "thread_id": 48174
+    },
+    "82": {
+        "code": "TianLong - HN07",
+        "thread_id": 48175
+    },
+    "83": {
+        "code": "TianLong - HN08",
+        "thread_id": 48176
+    },
+    "84": {
+        "code": "TianLong - HP02",
+        "thread_id": 48177
+    },
+    "85": {
+        "code": "LongWang - HN22",
+        "thread_id": 48178
+    },
+    "86": {
+        "code": "BTQM - TT01",
+        "thread_id": 48179
+    },
+    "87": {
+        "code": "TianLong - SG05",
+        "thread_id": 48180
+    },
+    "88": {
+        "code": "TianLong - SG03",
+        "thread_id": 48181
+    },
+    "89": {
+        "code": "LongWang - SG16",
+        "thread_id": 48182
+    },
+    "90": {
+        "code": "LongWang - CT01",
+        "thread_id": 48183
+    },
+    "91": {
+        "code": "CNHS - HN03",
+        "thread_id": 48185
+    },
+    "92": {
+        "code": "LongWang - SG17",
+        "thread_id": 48186
+    },
+    "93": {
+        "code": "LongWang - SG18",
+        "thread_id": 48187
+    },
+    "94": {
+        "code": "LongWang - SG19",
+        "thread_id": 48188
+    },
+    "95": {
+        "code": "TianLong - SG06",
+        "thread_id": 48189
+    },
+    "96": {
+        "code": "TianLong - SG07",
+        "thread_id": 48190
+    },
+    "97": {
+        "code": "TianLong - SG08",
+        "thread_id": 48191
+    },
+    "98": {
+        "code": "BTQM - HP01",
+        "thread_id": 48192
+    },
+    "99": {
+        "code": "TianLong - HP03",
+        "thread_id": 48193
+    },
+    "100": {
+        "code": "GM - SG01",
+        "thread_id": 48194
+    },
+    "102": {
+        "code": "CNHS - SG02",
+        "thread_id": 48195
+    },
+    "103": {
+        "code": "CNHS - SG03",
+        "thread_id": 48196
+    },
+    "104": {
+        "code": "TianLong - SG09",
+        "thread_id": 48197
+    },
+    "105": {
+        "code": "CNHS - HN04",
+        "thread_id": 48198
+    },
+    "106": {
+        "code": "TianLong - HN09",
+        "thread_id": 48199
+    },
+    "107": {
+        "code": "TianLong - HN10",
+        "thread_id": 48200
+    },
+    "108": {
+        "code": "TianLong - NA01",
+        "thread_id": 48201
+    },
+    "109": {
+        "code": "TianLong - DA01",
+        "thread_id": 48202
+    },
+    "110": {
+        "code": "LongWang - NA01",
+        "thread_id": 48203
+    },
+    "111": {
+        "code": "LongWang - DA01",
+        "thread_id": 48204
+    },
+    "112": {
+        "code": "BTQM - HN17",
+        "thread_id": 48205
+    },
+    "113": {
+        "code": "TianLong - SG10",
+        "thread_id": 48206
+    },
+    "114": {
+        "code": "LongWang - SG20",
+        "thread_id": 48207
+    },
+    "115": {
+        "code": "KN - SG01",
+        "thread_id": 48208
+    },
+    "116": {
+        "code": "BTQM - HN18",
+        "thread_id": 48209
+    },
+    "118": {
+        "code": "LongWang - TH01",
+        "thread_id": 48210
+    },
+    "119": {
+        "code": "TianLong - TH01",
+        "thread_id": 48211
+    },
+    "120": {
+        "code": "TianLong - HN11",
+        "thread_id": 48212
+    },
+    "121": {
+        "code": "TianLong - KH01",
+        "thread_id": 48213
+    },
+    "122": {
+        "code": "LongWang - KH01",
+        "thread_id": 48214
+    },
+    "123": {
+        "code": "TianLong - SG11",
+        "thread_id": 48215
+    },
+    "125": {
+        "code": "GM - SG02",
+        "thread_id": 48216
+    }
+}
