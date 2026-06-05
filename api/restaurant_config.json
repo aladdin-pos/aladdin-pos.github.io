@@ -1505,5 +1505,16 @@
         "is_local": false,
         "active": true,
         "tags": "GM-HN"
+    },
+    {
+        "id_ref": "KNSG02",
+        "address": "Vincom Quang Trung,190 Quang Trung, Gò Vấp",
+        "ip": "http://192.168.1.250:1904/api",
+        "name": "Khèn - Nướng Sapa 2 SG",
+        "order_online": true,
+        "style": 8,
+        "is_local": false,
+        "active": true,
+        "tags": "KN-SG"
     }
 ]
