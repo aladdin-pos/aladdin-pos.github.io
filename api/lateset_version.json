@@ -1,11 +1,11 @@
 {
-    "active": true,
-    "apk_link": "https://aladdin-pos.github.io/assets/files/apos/android/APOS_V260_Tablet.apk",
-    "windows_link": "https://aladdin-pos.github.io/assets/files/apos/windows/APOS_V260_Desktop.exe",
+    "active": false,
+    "apk_link": "https://aladdin-pos.github.io/assets/files/apos/android/APOS_V280_Tablet.apk",
+    "windows_link": "https://aladdin-pos.github.io/assets/files/apos/windows/APOS_V280_Desktop.exe",
     "is_required": true,
-    "version": "V2.6.0",
-    "version_code": 60,
-    "note": "Tích hợp thanh toán QR tự động (VPBank)",
-    "time_release": "2026-05-04",
+    "version": "V2.8.0",
+    "version_code": 68,
+    "note": "Thông tin cập nhật vui lòng kiểm tra trong nhóm Zalo",
+    "time_release": "2026-06-11",
     "only": []
 }
