@@ -1516,5 +1516,16 @@
         "is_local": false,
         "active": true,
         "tags": "KN-SG"
+    },
+    {
+        "id_ref": "TLSG13",
+        "address": "Park Mall Q8",
+        "ip": "http://192.168.1.250:1904/api",
+        "name": "Tian Long 13 SG",
+        "order_online": true,
+        "style": 4,
+        "is_local": false,
+        "active": true,
+        "tags": "TL-SG"
     }
 ]
