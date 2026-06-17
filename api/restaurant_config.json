@@ -1527,5 +1527,27 @@
         "is_local": false,
         "active": true,
         "tags": "TL-SG"
+    },
+    {
+        "id_ref": "LWDA02",
+        "address": "Aeon Đà Nẵng",
+        "ip": "http://192.168.1.250:1904/api",
+        "name": "Long Wang 2 Đà Nẵng",
+        "order_online": true,
+        "style": 2,
+        "is_local": false,
+        "active": true,
+        "tags": "LW-DA"
+    },
+    {
+        "id_ref": "TLDA02",
+        "address": "Aeon Đà Nẵng",
+        "ip": "http://192.168.1.240:1904/api",
+        "name": "Tian Long 2 Đà Nẵng",
+        "order_online": true,
+        "style": 4,
+        "is_local": false,
+        "active": true,
+        "tags": "TL-DA"
     }
 ]
