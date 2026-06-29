@@ -2,7 +2,7 @@
     "active": true,
     "apk_link": "https://aladdin-pos.github.io/assets/files/apos/android/APOS_V282_Tablet.apk",
     "windows_link": "https://aladdin-pos.github.io/assets/files/apos/windows/APOS_V282_Desktop.exe",
-    "is_required": false,
+    "is_required": true,
     "version": "V2.8.2",
     "version_code": 70,
     "note": "Thông tin cập nhật vui lòng kiểm tra trong nhóm Zalo",
