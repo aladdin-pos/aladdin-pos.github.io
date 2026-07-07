@@ -1,12 +1,12 @@
 {
     "active": true,
-    "apk_link": "https://aladdin-pos.github.io/assets/files/apos/android/APOS_V300_Tablet.apk",
-    "windows_link": "https://aladdin-pos.github.io/assets/files/apos/windows/APOS_V300_Desktop.exe",
-    "is_required": true,
-    "version": "V3.0.0",
-    "version_code": 80,
+    "apk_link": "https://aladdin-pos.github.io/assets/files/apos/android/APOS_V301_Tablet.apk",
+    "windows_link": "https://aladdin-pos.github.io/assets/files/apos/windows/APOS_V301_Desktop.exe",
+    "is_required": false,
+    "version": "V3.0.1",
+    "version_code": 85,
     "note": "Thông tin cập nhật vui lòng kiểm tra trong nhóm Zalo",
-    "time_release": "2026-06-15",
+    "time_release": "2026-07-07",
     "only": [
         21,
         30,
