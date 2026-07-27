@@ -1571,5 +1571,16 @@
         "is_local": false,
         "active": true,
         "tags": "LW-HN"
+    },
+    {
+        "id_ref": "TLHN13",
+        "address": "Vincom OCP-Hà Nội",
+        "ip": "http://192.168.1.240:1904/api",
+        "name": "Tian Long 13 HN",
+        "order_online": true,
+        "style": 4,
+        "is_local": false,
+        "active": true,
+        "tags": "TL-HN"
     }
 ]
