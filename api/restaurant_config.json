@@ -1457,7 +1457,7 @@
         "ip": "http://gmaster-order.aladdin-jsc.com/api",
         "name": "Đào tạo G-Master",
         "order_online": true,
-        "style": 6,
+        "style": 1,
         "is_local": false,
         "active": true,
         "tags": "PĐT"
