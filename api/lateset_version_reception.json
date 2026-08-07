@@ -1,7 +1,7 @@
 {
     "active": true,
     "apk_link": "https://aladdin-pos.github.io/assets/files/reception/android/A_Reception_V1011_Android.apk",
-    "windows_link": "",
+    "windows_link": "https://aladdin-pos.github.io/assets/files/reception/windowns/A_Reception_V1011_Desktop.exe",
     "is_required": false,
     "version": "V1.0.11",
     "version_code": 12,
