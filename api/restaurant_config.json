@@ -36,7 +36,7 @@
         "id_ref": "BTAP1SG",
         "address": "Sài Gòn",
         "ip": "http://192.168.1.250:1904/api",
-        "name": "Bánh tráng An Vũ 1 SG",
+        "name": "Cuốn An Vũ 1 SG",
         "order_online": true,
         "style": 3,
         "is_local": false,
@@ -286,6 +286,50 @@
         "tags": "BTQM-HN"
     },
     {
+        "id_ref": "BTQMHN17",
+        "address": "Tiến Bộ Plaza",
+        "ip": "http://192.168.1.230:1904/api",
+        "name": "Bò tơ quán mộc 17 HN",
+        "order_online": true,
+        "style": 1,
+        "is_local": false,
+        "active": true,
+        "tags": "BTQM-HN"
+    },
+    {
+        "id_ref": "BTQMHN18",
+        "address": "Vincom Phạm Ngọc Thạch",
+        "ip": "http://192.168.1.230:1904/api",
+        "name": "Bò tơ quán mộc 18 HN",
+        "order_online": true,
+        "style": 1,
+        "is_local": false,
+        "active": true,
+        "tags": "BTQM-HN"
+    },
+    {
+        "id_ref": "BTQMHP1",
+        "address": "Vincom Vũ Yên",
+        "ip": "http://192.168.1.250:1904/api",
+        "name": "Bò tơ quán mộc 1 HP",
+        "order_online": true,
+        "style": 1,
+        "is_local": false,
+        "active": true,
+        "tags": "BTQM-HP"
+    },
+    {
+        "id_ref": "BTQMHP2",
+        "address": "Aeon Mall - Hải Phòng",
+        "ip": "http://192.168.1.250:1904/api",
+        "name": "Bò tơ quán mộc 2 HP",
+        "order_online": true,
+        "style": 1,
+        "is_local": false,
+        "active": true,
+        "tags": "BTQM-HP"
+    },
+    {
         "id_ref": "CNHS1HN",
         "address": "Hà Nội",
         "ip": "http://192.168.1.19:1904/api",
@@ -308,6 +352,72 @@
         "tags": "CNHS-HN"
     },
     {
+        "id_ref": "CNHSHN3",
+        "address": "Aeon Long Biên",
+        "ip": "http://192.168.1.230:1904/api",
+        "name": "Cơm niêu Hải sư 3 HN",
+        "order_online": true,
+        "style": 5,
+        "is_local": false,
+        "active": true,
+        "tags": "CNHS-HN"
+    },
+    {
+        "id_ref": "CNHSHN4",
+        "address": "39 Huỳnh Thúc Kháng",
+        "ip": "http://192.168.1.230:1904/api",
+        "name": "Cơm niêu Hải sư 4 HN",
+        "order_online": true,
+        "style": 5,
+        "is_local": false,
+        "active": true,
+        "tags": "CNHS-HN"
+    },
+    {
+        "id_ref": "CNHSHP1",
+        "address": "Aeon Mall Hải Phòng",
+        "ip": "http://192.168.1.250:1904/api",
+        "name": "Cơm niêu Hải sư 1 HP",
+        "order_online": true,
+        "style": 5,
+        "is_local": false,
+        "active": true,
+        "tags": "CNHS-HP"
+    },
+    {
+        "id_ref": "CNHSS1",
+        "address": "Aeon Mall Tân Phú",
+        "ip": "http://192.168.1.250:1904/api",
+        "name": "Cơm niêu Hải sư 1 SG",
+        "order_online": true,
+        "style": 5,
+        "is_local": false,
+        "active": true,
+        "tags": "CNHN-SG"
+    },
+    {
+        "id_ref": "CNHSSG2",
+        "address": "Giga Mall",
+        "ip": "http://192.168.1.230:1904/api",
+        "name": "Cơm niêu Hải sư 2 SG",
+        "order_online": true,
+        "style": 5,
+        "is_local": false,
+        "active": true,
+        "tags": "CNHN-SG"
+    },
+    {
+        "id_ref": "CNHSSG3",
+        "address": "Nguyễn Thị Thập",
+        "ip": "http://192.168.1.230:1904/api",
+        "name": "Cơm niêu Hải sư 3 SG",
+        "order_online": true,
+        "style": 5,
+        "is_local": false,
+        "active": true,
+        "tags": "CNHN-SG"
+    },
+    {
         "id_ref": "DTAVOnline",
         "address": "Phòng Đào tạo - Online",
         "ip": "http://order-anvu.aladdin-jsc.com/api",
@@ -317,6 +427,83 @@
         "is_local": false,
         "active": true,
         "tags": "PĐT"
+    },
+    {
+        "id_ref": "DTGMasterOnline",
+        "address": "Phòng Đào tạo - Online",
+        "ip": "http://gmaster-order.aladdin-jsc.com/api",
+        "name": "Đào tạo G-Master",
+        "order_online": true,
+        "style": 1,
+        "is_local": false,
+        "active": true,
+        "tags": "PĐT"
+    },
+    {
+        "id_ref": "GMHN1",
+        "address": "101A Toàn D5 Trần Thái Tông",
+        "ip": "http://192.168.1.250:1904/api",
+        "name": "G Master 1 HN",
+        "order_online": true,
+        "style": 6,
+        "is_local": false,
+        "active": true,
+        "tags": "GM-HN"
+    },
+    {
+        "id_ref": "GMSG1",
+        "address": "Landmark 81",
+        "ip": "http://192.168.1.250:1904/api",
+        "name": "G Master 1 SG",
+        "order_online": true,
+        "style": 6,
+        "is_local": false,
+        "active": true,
+        "tags": "GM-SG"
+    },
+    {
+        "id_ref": "GMSG2",
+        "address": "476 Nguyễn Thị Thập, Q7",
+        "ip": "http://192.168.1.250:1904/api",
+        "name": "G Master 2 SG",
+        "order_online": true,
+        "style": 6,
+        "is_local": false,
+        "active": true,
+        "tags": "GM-SG"
+    },
+    {
+        "id_ref": "GMSG3",
+        "address": "Vincom Grand Park, Q9",
+        "ip": "http://192.168.1.250:1904/api",
+        "name": "G Master 3 SG",
+        "order_online": true,
+        "style": 6,
+        "is_local": false,
+        "active": true,
+        "tags": "GM-SG"
+    },
+    {
+        "id_ref": "KN-SG1",
+        "address": "Số 9, Thoại Ngọc Hầu, Hòa Thạnh, Tân Phú",
+        "ip": "http://192.168.1.250:1904/api",
+        "name": "Khèn - Nướng Sapa 1 SG",
+        "order_online": true,
+        "style": 8,
+        "is_local": false,
+        "active": true,
+        "tags": "KN-SG"
+    },
+    {
+        "id_ref": "KNSG02",
+        "address": "Vincom Quang Trung,190 Quang Trung, Gò Vấp",
+        "ip": "http://192.168.1.250:1904/api",
+        "name": "Khèn - Nướng Sapa 2 SG",
+        "order_online": true,
+        "style": 8,
+        "is_local": false,
+        "active": true,
+        "tags": "KN-SG"
     },
     {
         "id_ref": "LW1-84NgocKhanh",
@@ -454,7 +641,7 @@
         "id_ref": "LW1BG",
         "address": "TM Vincom 43 Ngô Gia Tự, Trần Phú",
         "ip": "http://192.168.1.250:1904/api",
-        "name": "Long Wang 1 - Bắc Giang",
+        "name": "Long Wang 1  Bắc Giang",
         "order_online": true,
         "style": 2,
         "is_local": false,
@@ -504,6 +691,17 @@
         "is_local": false,
         "active": true,
         "tags": "LW-SG"
+    },
+    {
+        "id_ref": "LW22HN",
+        "address": "Vinsmart City",
+        "ip": "http://192.168.1.250:1904/api",
+        "name": "Long Wang 22 HN",
+        "order_online": true,
+        "style": 2,
+        "is_local": false,
+        "active": true,
+        "tags": "LW-HN"
     },
     {
         "id_ref": "LW3HN",
@@ -660,7 +858,40 @@
         "tags": "LW-SG"
     },
     {
-        "id_ref": "LW20HN",
+        "id_ref": "LWCT1",
+        "address": "Vincom Xuân Khánh - Cần Thơ",
+        "ip": "http://192.168.1.250:1904/api",
+        "name": "Long Wang 1 CT",
+        "order_online": true,
+        "style": 2,
+        "is_local": false,
+        "active": true,
+        "tags": "LW-SG"
+    },
+    {
+        "id_ref": "LWDA02",
+        "address": "Aeon Đà Nẵng",
+        "ip": "http://192.168.1.250:1904/api",
+        "name": "Long Wang 2 Đà Nẵng",
+        "order_online": true,
+        "style": 2,
+        "is_local": false,
+        "active": true,
+        "tags": "LW-DA"
+    },
+    {
+        "id_ref": "LWDA1",
+        "address": "Vincom Plaza Ngô Quyền",
+        "ip": "http://192.168.1.250:1904/api",
+        "name": "Long Wang 1 Đà Nẵng",
+        "order_online": true,
+        "style": 2,
+        "is_local": false,
+        "active": true,
+        "tags": "LW-DA"
+    },
+    {
+        "id_ref": "LWHN20",
         "address": "Hà Nội Center, 172 Nguyễn Thái Học",
         "ip": "http://192.168.1.250:1904/api",
         "name": "Long Wang 20 HN",
@@ -669,6 +900,50 @@
         "is_local": false,
         "active": true,
         "tags": "LW-HN"
+    },
+    {
+        "id_ref": "LWHN21",
+        "address": "147 Nguyễn Văn Lộc",
+        "ip": "http://192.168.1.250:1904/api",
+        "name": "Long Wang 21 HN",
+        "order_online": true,
+        "style": 2,
+        "is_local": false,
+        "active": true,
+        "tags": "LW-HN"
+    },
+    {
+        "id_ref": "LWHN23",
+        "address": "Aeon Hà Đông",
+        "ip": "http://192.168.1.250:1904/api",
+        "name": "Long Wang 23 HN",
+        "order_online": true,
+        "style": 2,
+        "is_local": false,
+        "active": true,
+        "tags": "LW-HN"
+    },
+    {
+        "id_ref": "LWKH1",
+        "address": "Vincom Trần Phú, NT, Khánh Hoà",
+        "ip": "http://192.168.1.250:1904/api",
+        "name": "Long Wang 1 Khánh Hoà",
+        "order_online": true,
+        "style": 2,
+        "is_local": false,
+        "active": true,
+        "tags": "LW-KH"
+    },
+    {
+        "id_ref": "LWNA1",
+        "address": "Vincom Vinh",
+        "ip": "http://192.168.1.250:1904/api",
+        "name": "Long Wang 1 Nghệ An",
+        "order_online": true,
+        "style": 2,
+        "is_local": false,
+        "active": true,
+        "tags": "LW-NA"
     },
     {
         "id_ref": "LWSG12",
@@ -715,15 +990,70 @@
         "tags": "LW-SG"
     },
     {
-        "id_ref": "LWSG1TEST",
-        "address": "69 To Huu - NHÀ HÀNG KHÔNG CHỌN CÁI NÀY",
-        "ip": "http://192.168.10.136:81/lwsg/api",
-        "name": "Local 136:81/lwsg",
+        "id_ref": "LWSG16",
+        "address": "Vincom Lê Văn Việt",
+        "ip": "http://192.168.1.250:1904/api",
+        "name": "Long Wang 16 SG",
         "order_online": true,
         "style": 2,
         "is_local": false,
         "active": true,
-        "tags": "Local"
+        "tags": "LW-SG"
+    },
+    {
+        "id_ref": "LWSG17",
+        "address": "Vincom Thủ Đức",
+        "ip": "http://192.168.1.250:1904/api",
+        "name": "Long Wang 17 SG",
+        "order_online": true,
+        "style": 2,
+        "is_local": false,
+        "active": true,
+        "tags": "LW-SG"
+    },
+    {
+        "id_ref": "LWSG18",
+        "address": "Landmark 81",
+        "ip": "http://192.168.1.250:1904/api",
+        "name": "Long Wang 18 SG",
+        "order_online": true,
+        "style": 2,
+        "is_local": false,
+        "active": true,
+        "tags": "LW-SG"
+    },
+    {
+        "id_ref": "LWSG19",
+        "address": "Âu Cơ",
+        "ip": "http://192.168.1.250:1904/api",
+        "name": "Long Wang 19 SG",
+        "order_online": true,
+        "style": 2,
+        "is_local": false,
+        "active": true,
+        "tags": "LW-SG"
+    },
+    {
+        "id_ref": "LWSG20",
+        "address": "Cantavil Premier",
+        "ip": "http://192.168.1.250:1904/api",
+        "name": "Long Wang 20 SG",
+        "order_online": true,
+        "style": 2,
+        "is_local": false,
+        "active": true,
+        "tags": "LW-SG"
+    },
+    {
+        "id_ref": "LWSG21",
+        "address": "Tòa nhà The Vibers 162 YerSin, Thủ Dầu Một",
+        "ip": "http://192.168.1.250:1904/api",
+        "name": "Long Wang 21 SG",
+        "order_online": true,
+        "style": 2,
+        "is_local": false,
+        "active": true,
+        "tags": "LW-SG"
     },
     {
         "id_ref": "LWSGDN1",
@@ -737,43 +1067,32 @@
         "tags": "LW-SG"
     },
     {
-        "id_ref": "Local136BTAP",
-        "address": "69 Tố Hữu - NHÀ HÀNG KHÔNG CHỌN CÁI NÀY",
-        "ip": "http://192.168.10.136:81/btap/api",
-        "name": "Local 136:81/btap",
+        "id_ref": "LWTH02",
+        "address": "Aeon Thanh Hóa",
+        "ip": "http://192.168.1.240:1904/api",
+        "name": "Long Wang 2 Thanh Hoá",
         "order_online": true,
-        "style": 3,
+        "style": 2,
         "is_local": false,
         "active": true,
-        "tags": "Local"
+        "tags": "LW-TH"
     },
     {
-        "id_ref": "Local136Bo3SG",
-        "address": "69 To Huu - NHÀ HÀNG KHÔNG CHỌN CÁI NÀY",
-        "ip": "http://192.168.10.136:81/btqm_sg3/api",
-        "name": "Local BTQM SG3",
+        "id_ref": "LWTH1",
+        "address": "Vincom Plaza Thanh Hóa",
+        "ip": "http://192.168.1.250:1904/api",
+        "name": "Long Wang 1 Thanh Hoá",
         "order_online": true,
-        "style": 1,
-        "is_local": true,
-        "active": true,
-        "tags": "Local"
-    },
-    {
-        "id_ref": "Local136CNHS",
-        "address": "NHÀ HÀNG KHÔNG CHỌN DÒNG NÀY",
-        "ip": "http://192.168.10.136:54/api",
-        "name": "Local 136:54 - CNHS",
-        "order_online": true,
-        "style": 5,
+        "style": 2,
         "is_local": false,
         "active": true,
-        "tags": "Local"
+        "tags": "LW-TH"
     },
     {
         "id_ref": "Local136LW",
         "address": "NHÀ HÀNG KHÔNG CHỌN CÁI NÀY",
-        "ip": "http://192.168.10.136:81/api",
-        "name": "Local 136:81",
+        "ip": "http://192.168.10.108:1904/api",
+        "name": "Local DEV 108:1904",
         "order_online": true,
         "style": 2,
         "is_local": false,
@@ -781,35 +1100,13 @@
         "tags": "Local"
     },
     {
-        "id_ref": "Local136Tianlong",
-        "address": "Local - NHÀ HÀNG KHÔNG CHỌN DÒNG NÀY",
-        "ip": "http://192.168.10.136:85/api",
-        "name": "Local 136:85 - TL",
+        "id_ref": "LocalBoSG4",
+        "address": "NHÀ HÀNG KHÔNG CHỌN CÁI NÀY",
+        "ip": "http://nq001.aladdin-jsc.com/api",
+        "name": "Local DEV NQ CNHS",
         "order_online": true,
         "style": 4,
         "is_local": false,
-        "active": true,
-        "tags": "Local"
-    },
-    {
-        "id_ref": "Local139BTQM",
-        "address": "Dành cho IT - 69 To Huu - NHÀ HÀNG KHÔNG CHỌN CÁI NÀY",
-        "ip": "http://192.168.10.136:81/btqm/api",
-        "name": "Local 136:81/btqm",
-        "order_online": true,
-        "style": 1,
-        "is_local": false,
-        "active": true,
-        "tags": "Local"
-    },
-    {
-        "id_ref": "LocalBoSG4",
-        "address": "69 Tố Hữu",
-        "ip": "http://192.168.10.136:81/btqm_sg4/api",
-        "name": "Local BTQM SG4",
-        "order_online": true,
-        "style": 1,
-        "is_local": true,
         "active": true,
         "tags": "Local"
     },
@@ -840,6 +1137,72 @@
         "address": "Vincom Phạm Ngọc Thạch",
         "ip": "http://192.168.1.240:1904/api",
         "name": "Tian Long 2 HN",
+        "order_online": true,
+        "style": 4,
+        "is_local": false,
+        "active": true,
+        "tags": "TL-HN"
+    },
+    {
+        "id_ref": "TLDA02",
+        "address": "Aeon Đà Nẵng",
+        "ip": "http://192.168.1.240:1904/api",
+        "name": "Tian Long 2 Đà Nẵng",
+        "order_online": true,
+        "style": 4,
+        "is_local": false,
+        "active": true,
+        "tags": "TL-DA"
+    },
+    {
+        "id_ref": "TLDA1",
+        "address": "Vincom Plaza Ngô Quyền",
+        "ip": "http://192.168.1.240:1904/api",
+        "name": "Tian Long 1 Đà Nẵng",
+        "order_online": true,
+        "style": 4,
+        "is_local": false,
+        "active": true,
+        "tags": "TL-DA"
+    },
+    {
+        "id_ref": "TLHN11",
+        "address": "Tầng B2 TTTM Vincom Mega Mall Royal City, HN",
+        "ip": "http://192.168.1.240:1904/api",
+        "name": "Tian Long 11 HN",
+        "order_online": true,
+        "style": 4,
+        "is_local": false,
+        "active": true,
+        "tags": "TL-HN"
+    },
+    {
+        "id_ref": "TLHN12",
+        "address": "Aeon Mall Hà Đông",
+        "ip": "http://192.168.1.240:1904/api",
+        "name": "Tian Long 12 HN",
+        "order_online": true,
+        "style": 4,
+        "is_local": false,
+        "active": true,
+        "tags": "TL-HN"
+    },
+    {
+        "id_ref": "TLHN13",
+        "address": "Vincom OCP-Hà Nội",
+        "ip": "http://192.168.1.240:1904/api",
+        "name": "Tian Long 13 HN",
+        "order_online": true,
+        "style": 4,
+        "is_local": false,
+        "active": true,
+        "tags": "TL-HN"
+    },
+    {
+        "id_ref": "TLHN14",
+        "address": "Vincom Đan Phượng",
+        "ip": "http://192.168.1.240:1904/api",
+        "name": "Tian Long 14 HN",
         "order_online": true,
         "style": 4,
         "is_local": false,
@@ -880,10 +1243,43 @@
         "tags": "TL-HN"
     },
     {
+        "id_ref": "TLHN6",
+        "address": "36 Nguyễn Thị Định",
+        "ip": "http://192.168.1.250:1904/api",
+        "name": "Tian Long 6 HN",
+        "order_online": true,
+        "style": 4,
+        "is_local": false,
+        "active": true,
+        "tags": "TL-HN"
+    },
+    {
         "id_ref": "TLHP1",
         "address": "Imperia Hải Phòng",
         "ip": "http://192.168.1.224:1904/api",
         "name": "Tian Long 1 Hải Phòng",
+        "order_online": true,
+        "style": 4,
+        "is_local": false,
+        "active": true,
+        "tags": "TL-HP"
+    },
+    {
+        "id_ref": "TLHP2",
+        "address": "Aeon Mall Hải Phòng",
+        "ip": "http://192.168.1.240:1904/api",
+        "name": "Tian Long 2 Hải Phòng",
+        "order_online": true,
+        "style": 4,
+        "is_local": false,
+        "active": true,
+        "tags": "TL-HP"
+    },
+    {
+        "id_ref": "TLHP3",
+        "address": "Vincom Vũ Yên",
+        "ip": "http://192.168.1.240:1904/api",
+        "name": "Tian Long 3 Hải Phòng",
         "order_online": true,
         "style": 4,
         "is_local": false,
@@ -902,10 +1298,98 @@
         "tags": "TL-HUE"
     },
     {
+        "id_ref": "TLKH1",
+        "address": "Vincom Trần Phú, NT, Khánh Hoà",
+        "ip": "http://192.168.1.240:1904/api",
+        "name": "Tian Long 1 Khánh Hoà",
+        "order_online": true,
+        "style": 4,
+        "is_local": false,
+        "active": true,
+        "tags": "TL-KH"
+    },
+    {
         "id_ref": "TLSG1",
         "address": "Vincom Thảo Điền",
         "ip": "http://192.168.1.250:1904/api",
         "name": "Tian Long 1 SG",
+        "order_online": true,
+        "style": 4,
+        "is_local": false,
+        "active": true,
+        "tags": "TL-SG"
+    },
+    {
+        "id_ref": "TLSG10",
+        "address": "Cantavil Premier",
+        "ip": "http://192.168.1.240:1904/api",
+        "name": "Tian Long 10 SG",
+        "order_online": true,
+        "style": 4,
+        "is_local": false,
+        "active": true,
+        "tags": "TL-SG"
+    },
+    {
+        "id_ref": "TLSG11",
+        "address": "103-103A-103C Đường Cộng Hòa, P. TSN",
+        "ip": "http://192.168.1.240:1904/api",
+        "name": "Tian Long 11 SG",
+        "order_online": true,
+        "style": 4,
+        "is_local": false,
+        "active": true,
+        "tags": "TL-SG"
+    },
+    {
+        "id_ref": "TLSG12",
+        "address": "459-461 Phan Văn Trị, Gò Vấp",
+        "ip": "http://192.168.1.250:1904/api",
+        "name": "Tian Long 12 SG",
+        "order_online": true,
+        "style": 4,
+        "is_local": false,
+        "active": true,
+        "tags": "TL-SG"
+    },
+    {
+        "id_ref": "TLSG13",
+        "address": "Park Mall Q8",
+        "ip": "http://192.168.1.250:1904/api",
+        "name": "Tian Long 13 SG",
+        "order_online": true,
+        "style": 4,
+        "is_local": false,
+        "active": true,
+        "tags": "TL-SG"
+    },
+    {
+        "id_ref": "TLSG14",
+        "address": "Vincom Dĩ An Bình Dương",
+        "ip": "http://192.168.1.240:1904/api",
+        "name": "Tian Long 14 SG",
+        "order_online": true,
+        "style": 4,
+        "is_local": false,
+        "active": true,
+        "tags": "TL-SG"
+    },
+    {
+        "id_ref": "TLSG15",
+        "address": "486 Nguyễn Thị Minh Khai",
+        "ip": "http://192.168.1.240:1904/api",
+        "name": "Tian Long 15 SG",
+        "order_online": true,
+        "style": 4,
+        "is_local": false,
+        "active": true,
+        "tags": "TL-SG"
+    },
+    {
+        "id_ref": "TLSG16",
+        "address": "Aeon Mall Tân Phú",
+        "ip": "http://192.168.1.240:1904/api",
+        "name": "Tian Long 16 SG",
         "order_online": true,
         "style": 4,
         "is_local": false,
@@ -924,94 +1408,6 @@
         "tags": "TL-SG"
     },
     {
-        "id_ref": "Training",
-        "address": "Phòng Đào tạo - Online",
-        "ip": "http://order-tianlong.aladdin-jsc.com/api",
-        "name": "Đào tạo Tian Long",
-        "order_online": true,
-        "style": 4,
-        "is_local": false,
-        "active": true,
-        "tags": "PĐT"
-    },
-    {
-        "id_ref": "CNHSS1",
-        "address": "Aeon Mall Tân Phú",
-        "ip": "http://192.168.1.250:1904/api",
-        "name": "Cơm niêu Hải sư 1 SG",
-        "order_online": true,
-        "style": 5,
-        "is_local": false,
-        "active": true,
-        "tags": "CNHS-SG"
-    },
-    {
-        "id_ref": "LW21HN",
-        "address": "147 Nguyễn Văn Lộc",
-        "ip": "http://192.168.1.250:1904/api",
-        "name": "Long Wang 21 HN",
-        "order_online": true,
-        "style": 2,
-        "is_local": false,
-        "active": true,
-        "tags": "LW-HN"
-    },
-    {
-        "id_ref": "Local136Test",
-        "address": "69 To Huu",
-        "ip": "http://123.16.54.224:81/api",
-        "name": "Local 136 live",
-        "order_online": true,
-        "style": 2,
-        "is_local": false,
-        "active": true,
-        "tags": "Local"
-    },
-    {
-        "id_ref": "TLHN6",
-        "address": "36 Nguyễn Thị Định",
-        "ip": "http://192.168.1.250:1904/api",
-        "name": "Tian Long 6 HN",
-        "order_online": true,
-        "style": 4,
-        "is_local": false,
-        "active": true,
-        "tags": "TL-HN"
-    },
-    {
-        "id_ref": "CNHSHP1",
-        "address": "Aeon Mall Hải Phòng",
-        "ip": "http://192.168.1.250:1904/api",
-        "name": "Cơm niêu Hải sư 1 HP",
-        "order_online": true,
-        "style": 5,
-        "is_local": false,
-        "active": true,
-        "tags": "CNHS-HP"
-    },
-    {
-        "id_ref": "TLSG5",
-        "address": "Vincom Đồng Khởi",
-        "ip": "http://192.168.1.240:1904/api",
-        "name": "Tian Long 5 SG",
-        "order_online": true,
-        "style": 4,
-        "is_local": false,
-        "active": true,
-        "tags": "TL-SG"
-    },
-    {
-        "id_ref": "LWCT1",
-        "address": "Vincom Xuân Khánh - Cần Thơ",
-        "ip": "http://192.168.1.250:1904/api",
-        "name": "Long Wang 1 CT",
-        "order_online": true,
-        "style": 2,
-        "is_local": false,
-        "active": true,
-        "tags": "LW-SG"
-    },
-    {
         "id_ref": "TLSG3",
         "address": "Vincom GrandPark",
         "ip": "http://192.168.1.250:1904/api",
@@ -1021,72 +1417,6 @@
         "is_local": false,
         "active": true,
         "tags": "TL-SG"
-    },
-    {
-        "id_ref": "LWSG16",
-        "address": "Vincom Lê Văn Việt",
-        "ip": "http://192.168.1.250:1904/api",
-        "name": "Long Wang 16 SG",
-        "order_online": true,
-        "style": 2,
-        "is_local": false,
-        "active": true,
-        "tags": "LW-SG"
-    },
-    {
-        "id_ref": "LW22HN",
-        "address": "Vinsmart City",
-        "ip": "http://192.168.1.250:1904/api",
-        "name": "Long Wang 22 HN",
-        "order_online": true,
-        "style": 2,
-        "is_local": false,
-        "active": true,
-        "tags": "LW-HN"
-    },
-    {
-        "id_ref": "TLHN8",
-        "address": "Vinsmart City",
-        "ip": "http://192.168.1.240:1904/api",
-        "name": "Tian Long 8 HN",
-        "order_online": true,
-        "style": 4,
-        "is_local": false,
-        "active": true,
-        "tags": "TL-HN"
-    },
-    {
-        "id_ref": "CNHSHN3",
-        "address": "Aeon Long Biên",
-        "ip": "http://192.168.1.230:1904/api",
-        "name": "Cơm niêu Hải sư 3 HN",
-        "order_online": true,
-        "style": 5,
-        "is_local": false,
-        "active": true,
-        "tags": "CNHS-HN"
-    },
-    {
-        "id_ref": "TLHN7",
-        "address": "Linh Đàm",
-        "ip": "http://192.168.1.230:1904/api",
-        "name": "Tian Long 7 HN",
-        "order_online": true,
-        "style": 4,
-        "is_local": false,
-        "active": true,
-        "tags": "TL-HN"
-    },
-    {
-        "id_ref": "TLHP2",
-        "address": "Aeon Mall Hải Phòng",
-        "ip": "http://192.168.1.240:1904/api",
-        "name": "Tian Long 2 Hải Phòng",
-        "order_online": true,
-        "style": 4,
-        "is_local": false,
-        "active": true,
-        "tags": "TL-HP"
     },
     {
         "id_ref": "TLSG4",
@@ -1100,70 +1430,15 @@
         "tags": "TL-SG"
     },
     {
-        "id_ref": "LWSG19",
-        "address": "Âu Cơ",
-        "ip": "http://192.168.1.250:1904/api",
-        "name": "Long Wang 19 SG",
-        "order_online": true,
-        "style": 2,
-        "is_local": false,
-        "active": true,
-        "tags": "LW-SG"
-    },
-    {
-        "id_ref": "TLHP3",
-        "address": "Vincom Vũ Yên",
+        "id_ref": "TLSG5",
+        "address": "Vincom Đồng Khởi",
         "ip": "http://192.168.1.240:1904/api",
-        "name": "Tian Long 3 Hải Phòng",
+        "name": "Tian Long 5 SG",
         "order_online": true,
         "style": 4,
         "is_local": false,
         "active": true,
-        "tags": "TL-HP"
-    },
-    {
-        "id_ref": "LWSG17",
-        "address": "Vincom Thủ Đức",
-        "ip": "http://192.168.1.250:1904/api",
-        "name": "Long Wang 17 SG",
-        "order_online": true,
-        "style": 2,
-        "is_local": false,
-        "active": true,
-        "tags": "LW-SG"
-    },
-    {
-        "id_ref": "BTQMHP1",
-        "address": "Vincom Vũ Yên",
-        "ip": "http://192.168.1.250:1904/api",
-        "name": "Bò tơ quán mộc 1 HP",
-        "order_online": true,
-        "style": 1,
-        "is_local": false,
-        "active": true,
-        "tags": "BTQM-HP"
-    },
-    {
-        "id_ref": "BTQMHP2",
-        "address": "Aeon Mall - Hải Phòng",
-        "ip": "http://192.168.1.250:1904/api",
-        "name": "Bò tơ quán mộc 2 HP",
-        "order_online": true,
-        "style": 1,
-        "is_local": false,
-        "active": true,
-        "tags": "BTQM-HP"
-    },
-    {
-        "id_ref": "LWSG18",
-        "address": "Landmark 81",
-        "ip": "http://192.168.1.250:1904/api",
-        "name": "Long Wang 18 SG",
-        "order_online": true,
-        "style": 2,
-        "is_local": false,
-        "active": true,
-        "tags": "LW-SG"
+        "tags": "TL-SG"
     },
     {
         "id_ref": "TLSG6",
@@ -1177,17 +1452,6 @@
         "tags": "TL-SG"
     },
     {
-        "id_ref": "CNHSSG2",
-        "address": "Giga Mall",
-        "ip": "http://192.168.1.230:1904/api",
-        "name": "Cơm niêu Hải sư 2 SG",
-        "order_online": true,
-        "style": 5,
-        "is_local": false,
-        "active": true,
-        "tags": "CNHS-SG"
-    },
-    {
         "id_ref": "TLSG7",
         "address": "Giga Mall",
         "ip": "http://192.168.1.240:1904/api",
@@ -1197,28 +1461,6 @@
         "is_local": false,
         "active": true,
         "tags": "TL-SG"
-    },
-    {
-        "id_ref": "GMSG1",
-        "address": "Landmark 81",
-        "ip": "http://192.168.1.250:1904/api",
-        "name": "G Master 1 SG",
-        "order_online": true,
-        "style": 6,
-        "is_local": false,
-        "active": true,
-        "tags": "GM-SG"
-    },
-    {
-        "id_ref": "GMSG2",
-        "address": "476 Nguyễn Thị Thập, Q7",
-        "ip": "http://192.168.1.250:1904/api",
-        "name": "G Master 2 SG",
-        "order_online": true,
-        "style": 6,
-        "is_local": false,
-        "active": true,
-        "tags": "GM-SG"
     },
     {
         "id_ref": "TLSG8",
@@ -1243,169 +1485,15 @@
         "tags": "TL-SG"
     },
     {
-        "id_ref": "CNHSSG3",
-        "address": "Nguyễn Thị Thập",
-        "ip": "http://192.168.1.230:1904/api",
-        "name": "Cơm niêu Hải sư 3 SG",
-        "order_online": true,
-        "style": 5,
-        "is_local": false,
-        "active": true,
-        "tags": "CNHS-SG"
-    },
-    {
-        "id_ref": "CNHSHN4",
-        "address": "39 Huỳnh Thúc Kháng",
-        "ip": "http://192.168.1.230:1904/api",
-        "name": "Cơm niêu Hải sư 4 HN",
-        "order_online": true,
-        "style": 5,
-        "is_local": false,
-        "active": true,
-        "tags": "CNHS-HN"
-    },
-    {
-        "id_ref": "TLHN9",
-        "address": "AeonMall HimLam",
+        "id_ref": "TLTH02",
+        "address": "AEON Thanh hóa",
         "ip": "http://192.168.1.240:1904/api",
-        "name": "Tian Long 9 HN",
+        "name": "Tian Long 2 Thanh Hoá",
         "order_online": true,
         "style": 4,
         "is_local": false,
         "active": true,
-        "tags": "TL-HN"
-    },
-    {
-        "id_ref": "LWNA1",
-        "address": "Vincom Vinh",
-        "ip": "http://192.168.1.250:1904/api",
-        "name": "Long Wang 1 Nghệ An",
-        "order_online": true,
-        "style": 2,
-        "is_local": false,
-        "active": true,
-        "tags": "LW-NA"
-    },
-    {
-        "id_ref": "TLNA1",
-        "address": "Vincom Vinh",
-        "ip": "http://192.168.1.240:1904/api",
-        "name": "Tian Long 1 Nghệ An",
-        "order_online": true,
-        "style": 4,
-        "is_local": false,
-        "active": true,
-        "tags": "TL-NA"
-    },
-    {
-        "id_ref": "LWDA1",
-        "address": "Vincom Plaza Ngô Quyền",
-        "ip": "http://192.168.1.250:1904/api",
-        "name": "Long Wang 1 Đà Nẵng",
-        "order_online": true,
-        "style": 2,
-        "is_local": false,
-        "active": true,
-        "tags": "LW-DA"
-    },
-    {
-        "id_ref": "TLDA1",
-        "address": "Vincom Plaza Ngô Quyền",
-        "ip": "http://192.168.1.240:1904/api",
-        "name": "Tian Long 1 Đà Nẵng",
-        "order_online": true,
-        "style": 4,
-        "is_local": false,
-        "active": true,
-        "tags": "TL-DA"
-    },
-    {
-        "id_ref": "BTQM-17HN",
-        "address": "Tiến Bộ Plaza",
-        "ip": "http://192.168.1.230:1904/api",
-        "name": "Bò tơ quán mộc 17 HN",
-        "order_online": true,
-        "style": 1,
-        "is_local": false,
-        "active": true,
-        "tags": "BTQM-HN"
-    },
-    {
-        "id_ref": "TLHN10",
-        "address": "82 Vũ Trọng Khánh",
-        "ip": "http://192.168.1.240:1904/api",
-        "name": "Tian Long 10 HN",
-        "order_online": true,
-        "style": 4,
-        "is_local": false,
-        "active": true,
-        "tags": "TL-HN"
-    },
-    {
-        "id_ref": "TLSG10",
-        "address": "Cantavil Premier",
-        "ip": "http://192.168.1.240:1904/api",
-        "name": "Tian Long 10 SG",
-        "order_online": true,
-        "style": 4,
-        "is_local": false,
-        "active": true,
-        "tags": "TL-SG"
-    },
-    {
-        "id_ref": "LWSG20",
-        "address": "Cantavil Premier",
-        "ip": "http://192.168.1.250:1904/api",
-        "name": "Long Wang 20 SG",
-        "order_online": true,
-        "style": 2,
-        "is_local": false,
-        "active": true,
-        "tags": "LW-SG"
-    },
-    {
-        "id_ref": "KNSG01",
-        "address": "Số 9, Thoại Ngọc Hầu, Hòa Thạnh, Tân Phú",
-        "ip": "http://192.168.1.250:1904/api",
-        "name": " Khèn - Nướng Sapa 1 SG",
-        "order_online": true,
-        "style": 8,
-        "is_local": false,
-        "active": true,
-        "tags": "KN-SG"
-    },
-    {
-        "id_ref": "BHN18",
-        "address": "Vincom Phạm Ngọc Thạch",
-        "ip": "http://192.168.1.230:1904/api",
-        "name": "Bò tơ quán mộc 18 HN",
-        "order_online": true,
-        "style": 1,
-        "is_local": false,
-        "active": true,
-        "tags": "BTQM-HN"
-    },
-    {
-        "id_ref": "TLSG11",
-        "address": "103-103A-103C Đường Cộng Hòa, P. TSN",
-        "ip": "http://192.168.1.240:1904/api",
-        "name": "Tian Long 11 SG",
-        "order_online": true,
-        "style": 4,
-        "is_local": false,
-        "active": true,
-        "tags": "TL-SG"
-    },
-    {
-        "id_ref": "TLHN11",
-        "address": "Tầng B2 TTTM Vincom Mega Mall Royal City, HN",
-        "ip": "http://192.168.1.240:1904/api",
-        "name": "Tian Long 11 HN",
-        "order_online": true,
-        "style": 4,
-        "is_local": false,
-        "active": true,
-        "tags": "TL-HN"
+        "tags": "TL-TH"
     },
     {
         "id_ref": "TLTH1",
@@ -1419,168 +1507,14 @@
         "tags": "TL-TH"
     },
     {
-        "id_ref": "LWTH1",
-        "address": "Vincom Plaza Thanh Hóa",
-        "ip": "http://192.168.1.250:1904/api",
-        "name": "Long Wang 1 Thanh Hoá",
-        "order_online": true,
-        "style": 2,
-        "is_local": false,
-        "active": true,
-        "tags": "LW-TH"
-    },
-    {
-        "id_ref": "TLKH1",
-        "address": "Vincom Trần Phú, NT, Khánh Hoà",
-        "ip": "http://192.168.1.240:1904/api",
-        "name": "Tian Long 1 Khánh Hoà",
+        "id_ref": "Training",
+        "address": "Phòng Đào tạo - Online",
+        "ip": "http://order-tianlong.aladdin-jsc.com/api",
+        "name": "Đào tạo Tian Long",
         "order_online": true,
         "style": 4,
-        "is_local": false,
-        "active": true,
-        "tags": "TL-KH"
-    },
-    {
-        "id_ref": "LWKH1",
-        "address": "Vincom Trần Phú, NT, Khánh Hoà",
-        "ip": "http://192.168.1.250:1904/api",
-        "name": "Long Wang 1 Khánh Hoà",
-        "order_online": true,
-        "style": 2,
-        "is_local": false,
-        "active": true,
-        "tags": "LW-KH"
-    },
-    {
-        "id_ref": "DTGMasterOnline",
-        "address": "Phòng Đào tạo - Online",
-        "ip": "http://gmaster-order.aladdin-jsc.com/api",
-        "name": "Đào tạo G-Master",
-        "order_online": true,
-        "style": 1,
         "is_local": false,
         "active": true,
         "tags": "PĐT"
-    },
-    {
-        "id_ref": "TLHN12",
-        "address": "Aeon Mall Hà Đông",
-        "ip": "http://192.168.1.240:1904/api",
-        "name": "Tian Long 12 HN",
-        "order_online": true,
-        "style": 4,
-        "is_local": false,
-        "active": true,
-        "tags": "TL-HN"
-    },
-    {
-        "id_ref": "TLSG12",
-        "address": "459-461 Phan Văn Trị, Gò Vấp",
-        "ip": "http://192.168.1.250:1904/api",
-        "name": "Tian Long 12 SG",
-        "order_online": true,
-        "style": 4,
-        "is_local": false,
-        "active": true,
-        "tags": "TL-SG"
-    },
-    {
-        "id_ref": "GMSG3",
-        "address": "Vincom Grand Park, Q9",
-        "ip": "http://192.168.1.250:1904/api",
-        "name": "G Master 3 SG",
-        "order_online": true,
-        "style": 6,
-        "is_local": false,
-        "active": true,
-        "tags": "GM-SG"
-    },
-    {
-        "id_ref": "GMHN1",
-        "address": "101A Toàn D5 Trần Thái Tông",
-        "ip": "http://192.168.1.250:1904/api",
-        "name": "G Master 1 HN",
-        "order_online": true,
-        "style": 6,
-        "is_local": false,
-        "active": true,
-        "tags": "GM-HN"
-    },
-    {
-        "id_ref": "KNSG02",
-        "address": "Vincom Quang Trung,190 Quang Trung, Gò Vấp",
-        "ip": "http://192.168.1.250:1904/api",
-        "name": "Khèn - Nướng Sapa 2 SG",
-        "order_online": true,
-        "style": 8,
-        "is_local": false,
-        "active": true,
-        "tags": "KN-SG"
-    },
-    {
-        "id_ref": "TLSG13",
-        "address": "Park Mall Q8",
-        "ip": "http://192.168.1.250:1904/api",
-        "name": "Tian Long 13 SG",
-        "order_online": true,
-        "style": 4,
-        "is_local": false,
-        "active": true,
-        "tags": "TL-SG"
-    },
-    {
-        "id_ref": "LWDA02",
-        "address": "Aeon Đà Nẵng",
-        "ip": "http://192.168.1.250:1904/api",
-        "name": "Long Wang 2 Đà Nẵng",
-        "order_online": true,
-        "style": 2,
-        "is_local": false,
-        "active": true,
-        "tags": "LW-DA"
-    },
-    {
-        "id_ref": "TLDA02",
-        "address": "Aeon Đà Nẵng",
-        "ip": "http://192.168.1.240:1904/api",
-        "name": "Tian Long 2 Đà Nẵng",
-        "order_online": true,
-        "style": 4,
-        "is_local": false,
-        "active": true,
-        "tags": "TL-DA"
-    },
-    {
-        "id_ref": "LWSG21",
-        "address": "Tòa nhà The Vibers 162 YerSin, Thủ Dầu Một",
-        "ip": "http://192.168.1.250:1904/api",
-        "name": "Long Wang 21 SG",
-        "order_online": true,
-        "style": 2,
-        "is_local": false,
-        "active": true,
-        "tags": "LW-SG"
-    },
-    {
-        "id_ref": "LWHN23",
-        "address": "Aeon Hà Đông",
-        "ip": "http://192.168.1.250:1904/api",
-        "name": "Long Wang 23 HN",
-        "order_online": true,
-        "style": 2,
-        "is_local": false,
-        "active": true,
-        "tags": "LW-HN"
-    },
-    {
-        "id_ref": "TLHN13",
-        "address": "Vincom OCP-Hà Nội",
-        "ip": "http://192.168.1.240:1904/api",
-        "name": "Tian Long 13 HN",
-        "order_online": true,
-        "style": 4,
-        "is_local": false,
-        "active": true,
-        "tags": "TL-HN"
     }
 ]
