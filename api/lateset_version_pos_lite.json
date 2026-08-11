@@ -1,8 +1,8 @@
 {
-    "active": false,
+    "active": true,
     "apk_link": "https://aladdin-pos.github.io/assets/files/apos_lite/android/APOS_Lite_V1010_Android.apk",
     "windows_link": "https://aladdin-pos.github.io/assets/files/apos_lite/windows/APOS_Lite_V1010_Desktop.exe",
-    "is_required": false,
+    "is_required": true,
     "version": "V1.0.10",
     "version_code": 11,
     "note": "Thông tin cập nhật trong nhóm Zalo",
