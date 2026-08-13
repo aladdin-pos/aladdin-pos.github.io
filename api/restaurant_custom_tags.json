@@ -147,6 +147,19 @@
         ]
     },
     {
+        "brand": "Cảo Vương",
+        "locations": [
+            {
+                "key": "CV-HN",
+                "name": "Hà Nội"
+            },
+            {
+                "key": "CV-SG",
+                "name": "Sài Gòn"
+            }
+        ]
+    },
+    {
         "brand": "Khác",
         "locations": [
             {

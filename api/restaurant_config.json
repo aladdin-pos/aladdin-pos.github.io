@@ -418,6 +418,17 @@
         "tags": "CNHN-SG"
     },
     {
+        "id_ref": "CVHN01",
+        "address": "Vincom Mega Mall Ocean Park",
+        "ip": "http://192.168.1.230:1904/api",
+        "name": "Cảo Vương 1 - HN",
+        "order_online": true,
+        "style": 9,
+        "is_local": false,
+        "active": true,
+        "tags": "CV-HN"
+    },
+    {
         "id_ref": "DTAVOnline",
         "address": "Phòng Đào tạo - Online",
         "ip": "http://order-anvu.aladdin-jsc.com/api",
