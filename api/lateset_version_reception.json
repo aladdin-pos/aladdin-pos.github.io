@@ -1,11 +1,11 @@
 {
     "active": true,
-    "apk_link": "https://aladdin-pos.github.io/assets/files/reception/android/A_Reception_V1011_Android.apk",
-    "windows_link": "https://aladdin-pos.github.io/assets/files/reception/windowns/A_Reception_V1011_Desktop.exe",
-    "is_required": false,
-    "version": "V1.0.11",
-    "version_code": 12,
-    "note": "Thông tin cập nhật trong nhóm Zalo",
-    "time_release": "2026-08-06",
+    "apk_link": "",
+    "windows_link": "https://aladdin-pos.github.io/assets/files/reception/windowns/A_Reception_V1012_Desktop.exe",
+    "is_required": true,
+    "version": "V1.0.12",
+    "version_code": 13,
+    "note": "Cải thiện hiệu suất và ổn định",
+    "time_release": "2026-08-13",
     "only": []
 }
