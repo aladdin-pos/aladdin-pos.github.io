@@ -1,11 +1,11 @@
 {
     "active": true,
-    "apk_link": "",
-    "windows_link": "https://aladdin-pos.github.io/assets/files/reception/windowns/A_Reception_V1012_Desktop.exe",
+    "apk_link": "https://aladdin-pos.github.io/assets/files/reception/android/A_Reception_V1013_Android.exe",
+    "windows_link": "",
     "is_required": true,
-    "version": "V1.0.12",
-    "version_code": 13,
+    "version": "V1.0.13",
+    "version_code": 14,
     "note": "Cải thiện hiệu suất và ổn định",
-    "time_release": "2026-08-13",
+    "time_release": "2026-08-14",
     "only": []
 }
