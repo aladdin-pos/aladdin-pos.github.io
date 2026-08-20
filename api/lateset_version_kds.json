@@ -1,10 +1,21 @@
 {
-    "active": true,
-    "apk_link": "https://aladdin-pos.github.io/assets/files/kds/android/AKDS_V159_35_Tablet.apk",
+    "active": false,
+    "apk_link": "https://github.com/aladdin-pos/aladdin-pos.github.io/releases/download/KDS/AKDS_V200_80_Tablet_armeabi_v7a.apk",
     "is_required": false,
-    "version": "V1.5.9",
-    "version_code": 35,
-    "note": "Hotfix - Sửa lỗi 0/1",
-    "time_release": "2026-05-13",
-    "only": []
+    "version": "V2.0.0",
+    "version_code": 80,
+    "note": "Thông tin cập nhật vui lòng kiểm tra trong nhóm Zalo",
+    "time_release": "2026-08-20",
+    "only": [
+        17,
+        18,
+        24,
+        25,
+        26,
+        3,
+        47,
+        5,
+        98,
+        129
+    ]
 }
