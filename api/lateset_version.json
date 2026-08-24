@@ -1,7 +1,7 @@
 {
     "active": true,
-    "apk_link": "https://aladdin-pos.github.io/assets/files/apos/android/APOS_V283_Tablet.apk",
-    "windows_link": "https://aladdin-pos.github.io/assets/files/apos/windows/APOS_V283_Desktop.exe",
+    "apk_link": "https://aladdin-pos.github.io/assets/files/apos/android/APOS_V2831_Tablet.apk",
+    "windows_link": "https://aladdin-pos.github.io/assets/files/apos/windows/APOS_V2831_Desktop.exe",
     "is_required": true,
     "version": "V2.8.3",
     "version_code": 71,
