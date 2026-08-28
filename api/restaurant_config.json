@@ -426,7 +426,18 @@
         "style": 9,
         "is_local": false,
         "active": true,
-        "tags": "CV-HN"
+        "tags": "CAV-HN"
+    },
+    {
+        "id_ref": "CVHN02",
+        "address": "Vincom Smart City - Tây Mỗ",
+        "ip": "http://192.168.1.230:1904/api",
+        "name": "Cảo Vương 2 - HN",
+        "order_online": true,
+        "style": 9,
+        "is_local": false,
+        "active": true,
+        "tags": "CAV-HN"
     },
     {
         "id_ref": "DTAVOnline",
@@ -935,6 +946,17 @@
         "tags": "LW-HN"
     },
     {
+        "id_ref": "LWHN24",
+        "address": "Vincom Đan Phượng",
+        "ip": "http://192.168.1.250:1904/api",
+        "name": "Long Wang 24 HN",
+        "order_online": true,
+        "style": 2,
+        "is_local": false,
+        "active": true,
+        "tags": "LW-HN"
+    },
+    {
         "id_ref": "LWKH1",
         "address": "Vincom Trần Phú, NT, Khánh Hoà",
         "ip": "http://192.168.1.250:1904/api",
@@ -1106,6 +1128,17 @@
         "name": "Local DEV 108:1904",
         "order_online": true,
         "style": 2,
+        "is_local": false,
+        "active": true,
+        "tags": "Local"
+    },
+    {
+        "id_ref": "LocalAToan",
+        "address": "NHÀ HÀNG KHÔNG CHỌN CÁI NÀY",
+        "ip": "http://192.168.10.143:8000/api",
+        "name": "Toàn Local",
+        "order_online": true,
+        "style": 1,
         "is_local": false,
         "active": true,
         "tags": "Local"
