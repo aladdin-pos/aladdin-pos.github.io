@@ -1133,6 +1133,39 @@
         "tags": "LW-SG"
     },
     {
+        "id_ref": "LWSG22",
+        "address": "151 Thùy VânVũng Tàu, HCM",
+        "ip": "http://192.168.1.240:1904/api",
+        "name": "Long Wang 22 - SG",
+        "order_online": true,
+        "style": 2,
+        "is_local": false,
+        "active": true,
+        "tags": "LW-SG"
+    },
+    {
+        "id_ref": "LWSG23",
+        "address": "20 Cộng Hòa, P.12, Q. Tân Bình, TP. HCM",
+        "ip": "http://192.168.1.240:1904/api",
+        "name": "Long Wang 23 - SG",
+        "order_online": true,
+        "style": 2,
+        "is_local": false,
+        "active": true,
+        "tags": "LW-SG"
+    },
+    {
+        "id_ref": "LWSG24",
+        "address": "172-174 Lê Lai, Phường Bến Thành, Quận 1",
+        "ip": "http://192.168.1.240:1904/api",
+        "name": "Long Wang 24 - SG",
+        "order_online": true,
+        "style": 2,
+        "is_local": false,
+        "active": true,
+        "tags": "LW-SG"
+    },
+    {
         "id_ref": "LWSGDN1",
         "address": "K33 Võ Thị Sáu, Biên Hoà",
         "ip": "http://192.168.1.250:1904/api",
@@ -1419,6 +1452,17 @@
         "tags": "TL-KH"
     },
     {
+        "id_ref": "TLQN01",
+        "address": "Vincom Hạ Long",
+        "ip": "http://192.168.1.240:1904/api",
+        "name": "Tian Long 1 - QN",
+        "order_online": true,
+        "style": 4,
+        "is_local": false,
+        "active": true,
+        "tags": "TL-HN"
+    },
+    {
         "id_ref": "TLSG1",
         "address": "Vincom Thảo Điền",
         "ip": "http://192.168.1.250:1904/api",
@@ -1500,6 +1544,28 @@
         "address": "Aeon Mall Tân Phú",
         "ip": "http://192.168.1.240:1904/api",
         "name": "Tian Long 16 SG",
+        "order_online": true,
+        "style": 4,
+        "is_local": false,
+        "active": true,
+        "tags": "TL-SG"
+    },
+    {
+        "id_ref": "TLSG17",
+        "address": "City Land, 18 Phan Văn Trị, P10",
+        "ip": "http://192.168.1.240:1904/api",
+        "name": "Tian Long 17 - SG",
+        "order_online": true,
+        "style": 4,
+        "is_local": false,
+        "active": true,
+        "tags": "TL-SG"
+    },
+    {
+        "id_ref": "TLSG18",
+        "address": "162 YersinThủ Dầu Một, HCM",
+        "ip": "http://192.168.1.240:1904/api",
+        "name": "Tian Long 18 - SG",
         "order_online": true,
         "style": 4,
         "is_local": false,
