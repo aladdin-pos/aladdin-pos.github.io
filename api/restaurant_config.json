@@ -418,6 +418,17 @@
         "tags": "CNHN-SG"
     },
     {
+        "id_ref": "CNHSTH01",
+        "address": "Aeon Thanh hóa",
+        "ip": "http://192.168.1.220:1904/api",
+        "name": "Cơm niêu Hải Sư 1 - Thanh Hoá",
+        "order_online": true,
+        "style": 5,
+        "is_local": false,
+        "active": true,
+        "tags": "CNHN-SG"
+    },
+    {
         "id_ref": "CVHN01",
         "address": "Vincom Mega Mall Ocean Park",
         "ip": "http://192.168.1.230:1904/api",
@@ -504,6 +515,17 @@
         "is_local": false,
         "active": true,
         "tags": "GM-SG"
+    },
+    {
+        "id_ref": "GMTH01",
+        "address": "Aeon Thanh hóa",
+        "ip": "http://192.168.1.230:1904/api",
+        "name": "G Master 1 - Thanh Hoá",
+        "order_online": true,
+        "style": 6,
+        "is_local": false,
+        "active": true,
+        "tags": "GM-HN"
     },
     {
         "id_ref": "KN-SG1",
@@ -957,6 +979,28 @@
         "tags": "LW-HN"
     },
     {
+        "id_ref": "LWHN25",
+        "address": "Phan Văn Chánh",
+        "ip": "http://192.168.1.250:1904/api",
+        "name": "Long Wang 25 - HN",
+        "order_online": true,
+        "style": 2,
+        "is_local": false,
+        "active": true,
+        "tags": "LW-HN"
+    },
+    {
+        "id_ref": "LWHP03",
+        "address": "Aeon mall Hải Dương",
+        "ip": "http://192.168.1.250:1904/api",
+        "name": "Long Wang 3 - Hải Phòng",
+        "order_online": true,
+        "style": 2,
+        "is_local": false,
+        "active": true,
+        "tags": "LW-HP"
+    },
+    {
         "id_ref": "LWKH1",
         "address": "Vincom Trần Phú, NT, Khánh Hoà",
         "ip": "http://192.168.1.250:1904/api",
@@ -1188,6 +1232,17 @@
         "tags": "TL-HN"
     },
     {
+        "id_ref": "TLCT01",
+        "address": "Vincom Cần Thơ",
+        "ip": "http://192.168.1.240:1904/api",
+        "name": "Tian Long 1 - Cần Thơ",
+        "order_online": true,
+        "style": 4,
+        "is_local": false,
+        "active": true,
+        "tags": "TL-SG"
+    },
+    {
         "id_ref": "TLDA02",
         "address": "Aeon Đà Nẵng",
         "ip": "http://192.168.1.240:1904/api",
@@ -1296,6 +1351,17 @@
         "is_local": false,
         "active": true,
         "tags": "TL-HN"
+    },
+    {
+        "id_ref": "TLHP04",
+        "address": "Aeon Mall Hải Dương",
+        "ip": "http://192.168.1.240:1904/api",
+        "name": "Tian Long 4 - Hải Phòng",
+        "order_online": true,
+        "style": 4,
+        "is_local": false,
+        "active": true,
+        "tags": "TL-HP"
     },
     {
         "id_ref": "TLHP1",
