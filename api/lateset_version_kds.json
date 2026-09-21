@@ -6,9 +6,5 @@
     "version_code": 81,
     "note": "Thông tin cập nhật vui lòng kiểm tra trong nhóm Zalo",
     "time_release": "2026-09-16",
-    "only": [
-        97,
-        68,
-        66
-    ]
+    "only": []
 }
