@@ -467,7 +467,7 @@
         "ip": "http://gmaster-order.aladdin-jsc.com/api",
         "name": "Đào tạo G-Master",
         "order_online": true,
-        "style": 1,
+        "style": 4,
         "is_local": false,
         "active": true,
         "tags": "PĐT"
@@ -991,7 +991,7 @@
     },
     {
         "id_ref": "LWHP03",
-        "address": "Aeon mall Hải Dương",
+        "address": "Aeon Mall Hải Dương",
         "ip": "http://192.168.1.250:1904/api",
         "name": "Long Wang 3 - Hải Phòng",
         "order_online": true,
@@ -1146,7 +1146,7 @@
     {
         "id_ref": "LWSG23",
         "address": "20 Cộng Hòa, P.12, Q. Tân Bình, TP. HCM",
-        "ip": "http://192.168.1.240:1904/api",
+        "ip": "http://192.168.1.250:1904/api",
         "name": "Long Wang 23 - SG",
         "order_online": true,
         "style": 2,
