@@ -1232,6 +1232,17 @@
         "tags": "Local"
     },
     {
+        "id_ref": "PDTTLMN",
+        "address": "Phòng Đào tạo - Online",
+        "ip": "http://gmaster-order.aladdin-jsc.com/api",
+        "name": "Đào tạo Tian Long MN",
+        "order_online": true,
+        "style": 4,
+        "is_local": false,
+        "active": true,
+        "tags": "PĐT"
+    },
+    {
         "id_ref": "QuanLocal",
         "address": "Local - NHÀ HÀNG KHÔNG CHỌN CÁI NÀY",
         "ip": "http://192.168.10.4/api",
