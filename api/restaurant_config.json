@@ -464,8 +464,8 @@
     {
         "id_ref": "DTAVOnline",
         "address": "Phòng Đào tạo - Online",
-        "ip": "http://order-anvu.aladdin-jsc.com/api",
-        "name": "Đào tạo Long Wang",
+        "ip": "https://apos-lwmb.aladdin-jsc.com/api",
+        "name": "Đào tạo Long Wang MB",
         "order_online": true,
         "style": 2,
         "is_local": false,
@@ -475,10 +475,10 @@
     {
         "id_ref": "DTGMasterOnline",
         "address": "Phòng Đào tạo - Online",
-        "ip": "http://gmaster-order.aladdin-jsc.com/api",
-        "name": "Đào tạo G-Master",
+        "ip": "https://apos-lwmn.aladdin-jsc.com/api",
+        "name": "Đào tạo Long Wang MN",
         "order_online": true,
-        "style": 4,
+        "style": 2,
         "is_local": false,
         "active": true,
         "tags": "PĐT"
@@ -1265,12 +1265,56 @@
         "tags": "Local"
     },
     {
+        "id_ref": "PDTBTQMMB",
+        "address": "Phòng Đào tạo - Online",
+        "ip": "https://apos-btqmb.aladdin-jsc.com/api",
+        "name": "Đào tạo BTQM MB",
+        "order_online": true,
+        "style": 1,
+        "is_local": false,
+        "active": true,
+        "tags": "PĐT"
+    },
+    {
+        "id_ref": "PDTCNHSMB",
+        "address": "Phòng Đào tạo - Online",
+        "ip": "https://apos-cnhs-mb.aladdin-jsc.com/api",
+        "name": "Đào tạo CNHS MB",
+        "order_online": true,
+        "style": 5,
+        "is_local": false,
+        "active": true,
+        "tags": "PĐT"
+    },
+    {
+        "id_ref": "PDTGMMB",
+        "address": "Phòng Đào tạo - Online",
+        "ip": "https://apos-gmaster-mb.aladdin-jsc.com/api",
+        "name": "Đào tạo G-Master MB",
+        "order_online": true,
+        "style": 6,
+        "is_local": false,
+        "active": true,
+        "tags": "PĐT"
+    },
+    {
         "id_ref": "PDTTLMN",
         "address": "Phòng Đào tạo - Online",
-        "ip": "http://gmaster-order.aladdin-jsc.com/api",
+        "ip": "https://apos-tlmn.aladdin-jsc.com/api",
         "name": "Đào tạo Tian Long MN",
         "order_online": true,
         "style": 4,
+        "is_local": false,
+        "active": true,
+        "tags": "PĐT"
+    },
+    {
+        "id_ref": "PDTWFMB",
+        "address": "Phòng Đào tạo - Online",
+        "ip": "https://apos-wufu-mb.aladdin-jsc.com/api",
+        "name": "Đào tạo Wufu MB",
+        "order_online": true,
+        "style": 0,
         "is_local": false,
         "active": true,
         "tags": "PĐT"
@@ -1751,8 +1795,8 @@
     {
         "id_ref": "Training",
         "address": "Phòng Đào tạo - Online",
-        "ip": "http://order-tianlong.aladdin-jsc.com/api",
-        "name": "Đào tạo Tian Long",
+        "ip": "https://apos-tlmb.aladdin-jsc.com/api",
+        "name": "Đào tạo Tian Long MB",
         "order_online": true,
         "style": 4,
         "is_local": false,
