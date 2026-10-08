@@ -1386,6 +1386,28 @@
         "tags": "TL-DA"
     },
     {
+        "id_ref": "TLDN01",
+        "address": "248 Đường Phan Trung",
+        "ip": "http://192.168.1.240:1904/api",
+        "name": "Tian Long 1 - Đồng Nai",
+        "order_online": true,
+        "style": 4,
+        "is_local": false,
+        "active": true,
+        "tags": "TL-SG"
+    },
+    {
+        "id_ref": "TLDT01",
+        "address": "TTTM Vincom Mỹ Tho",
+        "ip": "http://192.168.1.240:1904/api",
+        "name": "Tian Long 1 - Đồng Tháp",
+        "order_online": true,
+        "style": 4,
+        "is_local": false,
+        "active": true,
+        "tags": "TL-SG"
+    },
+    {
         "id_ref": "TLHN10",
         "address": "82 Vũ Trọng Khánh",
         "ip": "http://192.168.1.240:1904/api",
@@ -1698,6 +1720,28 @@
         "address": "183 Lê Văn Sỹ, Phú Nhuận",
         "ip": "http://192.168.1.240:1904/api",
         "name": "Tian Long 2 SG",
+        "order_online": true,
+        "style": 4,
+        "is_local": false,
+        "active": true,
+        "tags": "TL-SG"
+    },
+    {
+        "id_ref": "TLSG20",
+        "address": "Crescent Mall",
+        "ip": "http://192.168.1.240:1904/api",
+        "name": "Tian Long 20 - SG",
+        "order_online": true,
+        "style": 4,
+        "is_local": false,
+        "active": true,
+        "tags": "TL-SG"
+    },
+    {
+        "id_ref": "TLSG21",
+        "address": "151 Thùy Vân - Vũng Tàu",
+        "ip": "http://192.168.1.240:1904/api",
+        "name": "Tian Long 21 - SG",
         "order_online": true,
         "style": 4,
         "is_local": false,
