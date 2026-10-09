@@ -1857,5 +1857,16 @@
         "is_local": false,
         "active": true,
         "tags": "PĐT"
+    },
+    {
+        "id_ref": "WFHN01",
+        "address": "Vincom Smart City",
+        "ip": "http://192.168.1.230:1904/api",
+        "name": "WUFU 01 - HN",
+        "order_online": false,
+        "style": 3,
+        "is_local": false,
+        "active": true,
+        "tags": "WF-HN"
     }
 ]

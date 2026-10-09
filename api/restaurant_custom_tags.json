@@ -160,6 +160,19 @@
         ]
     },
     {
+        "brand": "WUFU",
+        "locations": [
+            {
+                "key": "WF-HN",
+                "name": "Hà Nội"
+            },
+            {
+                "key": "WF-SG",
+                "name": "Sài Gòn"
+            }
+        ]
+    },
+    {
         "brand": "Khác",
         "locations": [
             {
