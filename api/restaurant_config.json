@@ -1247,8 +1247,8 @@
         "address": "NHÀ HÀNG KHÔNG CHỌN CÁI NÀY",
         "ip": "http://192.168.10.108:1904/api",
         "name": "Local DEV 108:1904",
-        "order_online": true,
-        "style": 2,
+        "order_online": false,
+        "style": 10,
         "is_local": false,
         "active": true,
         "tags": "Local"
@@ -1875,7 +1875,7 @@
         "ip": "http://192.168.1.230:1904/api",
         "name": "WUFU 01 - HN",
         "order_online": false,
-        "style": 3,
+        "style": 10,
         "is_local": false,
         "active": true,
         "tags": "WF-HN"
