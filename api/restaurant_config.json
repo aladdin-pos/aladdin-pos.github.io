@@ -352,6 +352,17 @@
         "tags": "CNHS-HN"
     },
     {
+        "id_ref": "CNHSHN05",
+        "address": "Lotte Mall Tây Hồ",
+        "ip": "http://192.168.1.230:1904/api",
+        "name": "Cơm niêu Hải Sư 5 - HN",
+        "order_online": true,
+        "style": 5,
+        "is_local": false,
+        "active": true,
+        "tags": "CNHS-HN"
+    },
+    {
         "id_ref": "CNHSHN2",
         "address": "Vincom Bà Triệu",
         "ip": "http://192.168.1.230:1904/api",
