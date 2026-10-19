@@ -54,6 +54,10 @@
             {
                 "key": "LW-KH",
                 "name": "Khánh Hoà"
+            },
+            {
+                "key": "LW-QN",
+                "name": "Quảng Ninh"
             }
         ]
     },
@@ -91,6 +95,10 @@
             {
                 "key": "TL-KH",
                 "name": "Khánh Hoà"
+            },
+            {
+                "key": "TL-QN",
+                "name": "Quảng Ninh"
             }
         ]
     },
@@ -121,6 +129,10 @@
             {
                 "key": "GM-HN",
                 "name": "Hà Nội"
+            },
+            {
+                "key": "GM-QN",
+                "name": "Quảng Ninh"
             }
         ]
     },
@@ -130,6 +142,10 @@
             {
                 "key": "KN-SG",
                 "name": "Sài Gòn"
+            },
+            {
+                "key": "KN-QN",
+                "name": "Quảng Ninh"
             }
         ]
     },

@@ -506,6 +506,17 @@
         "tags": "GM-HN"
     },
     {
+        "id_ref": "GMQN01",
+        "address": "AEON Mall Hạ Long",
+        "ip": "http://192.168.1.230:1904/api",
+        "name": "G-Master 1 - Quảng Ninh",
+        "order_online": true,
+        "style": 6,
+        "is_local": false,
+        "active": true,
+        "tags": "GM-QN"
+    },
+    {
         "id_ref": "GMSG1",
         "address": "Landmark 81",
         "ip": "http://192.168.1.250:1904/api",
@@ -559,6 +570,17 @@
         "is_local": false,
         "active": true,
         "tags": "KN-SG"
+    },
+    {
+        "id_ref": "KNQN01",
+        "address": "AEON Mall Hạ Long",
+        "ip": "http://192.168.1.220:1904/api",
+        "name": "Khèn 1 - Quảng Ninh",
+        "order_online": true,
+        "style": 8,
+        "is_local": false,
+        "active": true,
+        "tags": "KN-QN"
     },
     {
         "id_ref": "KNSG02",
@@ -1065,6 +1087,17 @@
         "is_local": false,
         "active": true,
         "tags": "LW-NA"
+    },
+    {
+        "id_ref": "LWQN01",
+        "address": "AEON Mall Hạ Long",
+        "ip": "http://192.168.1.240:1904/api",
+        "name": "Long Wang 1 - Quảng Ninh",
+        "order_online": true,
+        "style": 2,
+        "is_local": false,
+        "active": true,
+        "tags": "LW-QN"
     },
     {
         "id_ref": "LWSG12",
@@ -1604,6 +1637,17 @@
         "is_local": false,
         "active": true,
         "tags": "TL-HN"
+    },
+    {
+        "id_ref": "TLQN02",
+        "address": "AEON Mall Hạ Long",
+        "ip": "http://192.168.1.240:1904/api",
+        "name": "Tian Long 2 - Quảng Ninh",
+        "order_online": true,
+        "style": 4,
+        "is_local": false,
+        "active": true,
+        "tags": "TL-QN"
     },
     {
         "id_ref": "TLSG1",
