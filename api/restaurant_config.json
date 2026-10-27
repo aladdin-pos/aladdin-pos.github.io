@@ -1243,6 +1243,17 @@
         "tags": "LW-SG"
     },
     {
+        "id_ref": "LWSG25",
+        "address": "Aeon Bình Dương",
+        "ip": "http://192.168.1.250:1904/api",
+        "name": "Long Wang 25 - SG",
+        "order_online": true,
+        "style": 2,
+        "is_local": false,
+        "active": true,
+        "tags": "LW-SG"
+    },
+    {
         "id_ref": "LWSGDN1",
         "address": "K33 Võ Thị Sáu, Biên Hoà",
         "ip": "http://192.168.1.250:1904/api",
