@@ -11,17 +11,6 @@
         "tags": "BTQM-HUE"
     },
     {
-        "id_ref": "AladdinBMS",
-        "address": "NHÀ HÀNG KHÔNG CHỌN CÁI NÀY",
-        "ip": "https://bms.aladdin-jsc.com/api",
-        "name": "Aladdin BMS",
-        "order_online": true,
-        "style": 2,
-        "is_local": false,
-        "active": true,
-        "tags": "Local"
-    },
-    {
         "id_ref": "BHN16",
         "address": "Aoen Long Biên",
         "ip": "http://192.168.1.250:1904/api",
