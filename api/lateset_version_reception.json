@@ -1,11 +1,11 @@
 {
     "active": true,
-    "apk_link": "https://github.com/aladdin-pos/aladdin-pos.github.io/releases/download/ARecep-1.0.17%2B18/A_Reception_V1017_Android.apk",
-    "windows_link": "https://github.com/aladdin-pos/aladdin-pos.github.io/releases/download/ARecep-1.0.17%2B18/A_Reception_V1017_Desktop.exe",
+    "apk_link": "https://aladdin-pos.github.io/assets/files/reception/android/A_Reception_V1018_Android.apk",
+    "windows_link": "https://aladdin-pos.github.io/assets/files/reception/windowns/A_Reception_V1018_Desktop.exe",
     "is_required": false,
-    "version": "V1.0.17",
-    "version_code": 18,
-    "note": "Thêm ghi chú khi báo hết bàn",
-    "time_release": "2026-10-28",
+    "version": "V1.0.18",
+    "version_code": 19,
+    "note": "Bổ sung lí do huỷ lịch đặt bàn",
+    "time_release": "2026-11-18",
     "only": []
 }
