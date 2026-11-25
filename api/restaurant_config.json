@@ -1938,7 +1938,7 @@
     {
         "id_ref": "TLTN01",
         "address": "TTTM Vincom Plaza Tân An",
-        "ip": "http://192.168.1.240:1904/api",
+        "ip": "http://192.168.1.250:1904/api",
         "name": "Tian Long 1 - Tây Ninh",
         "order_online": true,
         "style": 4,
