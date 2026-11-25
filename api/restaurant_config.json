@@ -1276,6 +1276,17 @@
         "tags": "LW-TH"
     },
     {
+        "id_ref": "LWTN01",
+        "address": "Vincom Plaza Tân An",
+        "ip": "http://192.168.1.250:1904/api",
+        "name": "Long Wang 1 - Tây Ninh",
+        "order_online": true,
+        "style": 2,
+        "is_local": false,
+        "active": true,
+        "tags": "LW-SG"
+    },
+    {
         "id_ref": "Local136LW",
         "address": "NHÀ HÀNG KHÔNG CHỌN CÁI NÀY",
         "ip": "http://192.168.10.108:1904/api",
